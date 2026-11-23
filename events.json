@@ -1,0 +1,2343 @@
+{
+  "last_updated": "2026-11-23T03:35:10",
+  "count": 105,
+  "events": [
+    {
+      "original_lang": "de",
+      "title_original": "WINTERBALL FAST AUSVERKAUFT – WELCOME TO THE GOLDEN TWENTIES!",
+      "title_en": "Winter Ball Almost Sold Out – Welcome to the Golden Twenties!",
+      "description_original": "Der Winterball ist fast ausverkauft. Es gibt noch 'Nur Tanzen Tickets' für Einlass ab 21 Uhr. Tickets sind im Online-Shop von Tix for Gigs erhältlich.",
+      "description_en": "The Winter Ball is almost sold out. 'Dance Only Tickets' are available for entry from 9 PM. Tickets can be purchased in the Tix for Gigs online shop.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-23T00:00:00",
+      "end_datetime": null,
+      "location": null,
+      "registration_required": true,
+      "registration_url": "https://www.tixforgigs.com/Event/78088?af=54sgq5c242as&saf=pmojsdc",
+      "is_free": false,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "6f35066d2975"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Exposés schreiben",
+      "title_en": "Writing Exposés",
+      "description_original": "Ein Workshop für Promotionsinteressierte und Promovierende",
+      "description_en": "A workshop for prospective and current PhD candidates",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-23T09:00:00",
+      "end_datetime": "2026-11-23T17:00:00",
+      "location": "Emil-Schüller-Str. 12, Raum 201",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/exposes-schreiben-nov-26",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/exposes-schreiben-nov-26"
+      ],
+      "id": "e36ad9ff38cd"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "24.11.2026 - Netzwerkveranstaltung exist-Women 2026",
+      "title_en": "24.11.2026 – EXIST‑Women Networking Event 2026",
+      "description_original": "Netzwerkveranstaltung des EXIST‑Women Förderprogramms",
+      "description_en": "Networking event of the EXIST‑Women funding program",
+      "event_language": "DE",
+      "category": "Career & Jobs",
+      "start_datetime": "2026-11-24T15:30:00",
+      "end_datetime": "2026-11-24T23:59:59",
+      "location": "ED School",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/gruendungsbuero/foerderung/exist-women-foerderprogramm/netzwerkveranstaltung-exit-women",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gruendungsbuero/foerderung/exist-women-foerderprogramm/netzwerkveranstaltung-exit-women"
+      ],
+      "id": "6b122f0b3605"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Mahjong spielen mit HSG-Mahjong",
+      "title_en": "Mahjong Playing with HSG-Mahjong",
+      "description_original": "Lerne und Spiele Mahjong am 24. November in Raum H010 um 16:00 mit der HSG Mahjong. Es wird Tee und Deko geben.",
+      "description_en": "Learn and play Mahjong on November 24 in room H010 at 16:00 with HSG Mahjong. Tea and decorations will be provided.",
+      "event_language": "DE",
+      "category": "Sports & Games",
+      "start_datetime": "2026-11-24T16:00:00",
+      "end_datetime": null,
+      "location": "H010, University of Koblenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "90dd61584376"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Neutralitätspflicht und Extremismus: Was dürfen Pädagog*innen noch sagen?",
+      "title_en": "Neutrality Duty and Extremism: What May Educators Say?",
+      "description_original": "Die Veranstaltung möchte in diesem Kontext Wissen vermitteln, den Teilnehmenden durch ausgewählte Fallbeispiele Sicherheit im Umgang mit herausfordernden Situationen geben und zum Austausch untereinander anregen.",
+      "description_en": "The event aims to convey knowledge in this context, give participants confidence in dealing with challenging situations through selected case studies, and encourage exchange among each other.",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-11-24T17:00:00",
+      "end_datetime": "2026-11-24T20:00:00",
+      "location": "D 238, University of Koblenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "47e548a4d29c"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Wie erinnern wir (uns)? – Stationen jüdisch-christlicher Koexistenz in der deutschen Geschichte und Rezeptionsgeschichte",
+      "title_en": "How Do We Remember? – Stations of Jewish‑Christian Coexistence in German History and Reception History",
+      "description_original": "Vortrag über jüdisch‑christliche Koexistenz in der deutschen Geschichte",
+      "description_en": "Lecture on Jewish‑Christian coexistence in German history",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-24T18:00:00",
+      "end_datetime": "2026-11-24T20:00:00",
+      "location": "Landesbibliothekszentrum, Bahnhofplatz 14 56068 Koblenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/transfer/copy_of_kooperationen/wie-erinnern-wir-uns-stationen-juedisch-christlicher-koexistenz-in-der-deutschen-geschichte-und-rezeptionsgeschichte"
+      ],
+      "id": "03f2119c55fe"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "International Week",
+      "title_en": "International Week",
+      "description_original": "In diesem Jahr findet an der Universität Koblenz vom 25. November bis 2. Dezember 2026 die alljährliche International Week statt. Alle Studierenden und Mitarbeitenden der Universität sind eingeladen, an den verschiedenen Veranstaltungen teilzunehmen.",
+      "description_en": "This year the annual International Week takes place at the University of Koblenz from 25 November to 2 December 2026. All students and staff are invited to join the various events.",
+      "event_language": "EN",
+      "category": "International",
+      "start_datetime": "2026-11-25T00:00:00",
+      "end_datetime": "2026-12-02T23:59:59",
+      "location": "Universität Koblenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "International Week"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week/international-week-1"
+      ],
+      "id": "cee29e89a08c"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "26. AStA-Sitzung",
+      "title_en": "26th AStA Meeting",
+      "description_original": "",
+      "description_en": "Regular meeting of the Central Student Council (AStA).",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-11-25T12:00:00",
+      "end_datetime": "2026-11-25T14:00:00",
+      "location": "B 013",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/aktuelles/26-asta-sitzung"
+      ],
+      "id": "e3a6a170afc7"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Vollversammlung der Studierenden",
+      "title_en": "General Assembly of Students",
+      "description_original": "Liebe Studierende, wir laden euch hiermit zur Vollversammlung aller Studierenden im Wintersemester 2026/27 ein. Datum: Mittwoch, 25. November, Uhrzeit: 12:00 Uhr, Raum: D 028. Die Tagesordnung lautet: 1. Begrüßung 2. Wahlen zum 4. Studierendenparlament 2.1. Allgemeine Informationen zur Wahl",
+      "description_en": "Dear students, we hereby invite you to the general assembly of all students for the winter semester 2026/27. Date: Wednesday, 25 November, time: 12:00, room: D 028. The agenda: 1. Welcome 2. Elections for the 4th Student Parliament 2.1. General information about the election",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-11-25T12:00:00",
+      "end_datetime": "2026-11-25T14:00:00",
+      "location": "D028",
+      "registration_required": true,
+      "registration_url": "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11",
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/wahlrat/vollversammlung-der-studierenden",
+        "https://www.uni-koblenz.de/de/ssv/fachschaften/bildungswissenschaften/vollversammlung-fachschaft-bildungswissenschaften-grundschulbildung",
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "fcc9e410bae1"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "description_en": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-25T12:00:00",
+      "end_datetime": "2026-11-25T14:00:00",
+      "location": "Room F-312, University of Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "f35356980168"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Gewalt sichtbar machen: ein filmisch-literarischer Abend mit Alina Cyranek („Fassaden“) und Daniela Dröscher („Lügen über meine Mutter“)",
+      "title_en": "Making Violence Visible: A Film and Literature Evening with Alina Cyranek and Daniela Dröscher",
+      "description_original": "Zum Orange Day veranstalten die zentralen Gleichstellungsbeauftragten der Universität Koblenz und der Hochschule Koblenz einen filmisch-literarischen Abend über Gewalt an Frauen und deren Folgen. ",
+      "description_en": "A film and literature evening organized for Orange Day focusing on violence against women and its consequences, featuring works by Alina Cyranek and Daniela Dröscher.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-25T16:00:00",
+      "end_datetime": "2026-11-25T21:00:00",
+      "location": "Bundesarchiv Koblenz; Potsdamer Str. 1, 56075 Karthause",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/gewalt-sichtbar-machen-ein-filmisch-literarischer-abend-mit-alina-cyranek-fassaden-und-daniela-droescher-luegen-ueber-meine-mutter"
+      ],
+      "id": "d2ff99455b0f"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Absolvierendenfeier",
+      "title_en": "Graduation Ceremony",
+      "description_original": "Diesjährige Absolvierendenfeier des Instituts für Katholische Theologie. Teilnahme nur nach vorheriger Anmeldung möglich.",
+      "description_en": "Annual graduation ceremony of the Institute of Catholic Theology. Participation requires prior registration.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-25T18:00:00",
+      "end_datetime": "2026-11-25T23:59:59",
+      "location": "E414",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/katholische-theologie/aktuelles/termine/absolvierendenfeier"
+      ],
+      "id": "60211ef34a59"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Cultural Stage",
+      "title_en": "Cultural Stage",
+      "description_original": "Die Cultural Stage findet am 25. November ab 18:00 Uhr statt und bildet den Auftakt zur International Week. Anmeldung über den Link auf der linken Seite ist nötig.",
+      "description_en": "The Cultural Stage takes place on 25 November at 18:00 as the kickoff of International Week. Registration via the link on the left side is required.",
+      "event_language": "DE",
+      "category": "International",
+      "start_datetime": "2026-11-25T18:00:00",
+      "end_datetime": null,
+      "location": "Universität Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+      "is_free": true,
+      "sources": [
+        "International Week",
+        "International Week Program"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week/international-week-1",
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week"
+      ],
+      "id": "e08388f5cfb9"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "🎳 Bowling-Ausflug",
+      "title_en": "🎳 Bowling Trip",
+      "description_original": "Du hast Lust auf einen geselligen Abend und ein bisschen sportliche Abwechslung vom Uni-Alltag? Dann komm mit dem AStA bowlen! ... vollkommen Kostenlos für dich!",
+      "description_en": "Do you feel like a sociable evening and a bit of sporting variety from university life? Then come bowling with the AStA! ... completely free for you!",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-25T18:30:00",
+      "end_datetime": "2026-11-25T23:59:59",
+      "location": "Bowling Room Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ssv/asta/referate/sport-gesundheit",
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/aktuelles/termine/bowling-ausflug",
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "34af4d139e3c"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Queerer Stammtisch",
+      "title_en": "Queer Stammtisch",
+      "description_original": "Am 2026-11-25 soll im Florinsmarkt ab 19 Uhr wieder der Queere Stammtisch stattfinden. Wir haben wie immer auch Geld für einen Getränkedeckel und Essen beantragt.",
+      "description_en": "The Queer Stammtisch will take place again at Florinsmarkt from 19:00 on 2026-11-25. We have also applied for funds for a drink cover and food as usual.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-25T19:00:00",
+      "end_datetime": null,
+      "location": "Florinsmarkt",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "461230d4647c"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "WinterUni-.Crew-Meeting am 26.11.",
+      "title_en": "WinterUni Crew Meeting on 26 Nov",
+      "description_original": "Treffen des WinterUni‑Crew, um kommende Veranstaltungen zu planen.",
+      "description_en": "Meeting of the WinterUni crew to plan upcoming events.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-26T00:00:00",
+      "end_datetime": null,
+      "location": null,
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "750d36ec5e13"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Sprechstunde Berufs- und Studienberatung – 26. November 2026",
+      "title_en": "Career and Study Counseling Drop-in – 26 November 2026",
+      "description_original": "Beratungstermin im N‑Gebäude (Sozialbüro) von 10:00 bis 14:00 Uhr für Fragen zur beruflichen Orientierung und Studienplanung.",
+      "description_en": "Counseling session in the N‑building (social office) from 10:00 to 14:00 for questions about career orientation and study planning.",
+      "event_language": "DE",
+      "category": "Career & Jobs",
+      "start_datetime": "2026-11-26T10:00:00",
+      "end_datetime": "2026-11-26T14:00:00",
+      "location": "N‑Gebäude (Sozialbüro)",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "524bd9a3a6d3"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Faire, inklusive und sorgende Stadt - Neue Perspektiven der Fürsorge in der gendergerechten Stadtentwicklung",
+      "title_en": "Fair, inclusive and caring city – New perspectives on care in gender-sensitive urban development",
+      "description_original": "Wie können Städte so gestaltet werden, dass sie den Bedürfnissen aller Menschen gerecht werden? |  Ein Vortrag angeboten von der Kommission „Familienpolitik in der Frauen- und Gleichstellungsarbeit“  der Bundeskonferenz der Frauen- und Gleichstellungsbeauftragten an Hochschulen e.V. (bukof).",
+      "description_en": "How can cities be designed to meet the needs of all people? A lecture offered by the Commission “Family Policy in Women’s and Equality Work” of the Federal Conference of Women’s and Equality Officers at Universities (bukof).",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-26T12:30:00",
+      "end_datetime": "2026-11-26T14:00:00",
+      "location": "Online",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/gendergerechte-stadtentwicklung"
+      ],
+      "id": "c2774cd9723f"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Sprachdiagnostik in der Praxis – Förderbedarfe erkennen und adressieren",
+      "title_en": "Speech diagnostics in practice – Recognizing and addressing support needs",
+      "description_original": "",
+      "description_en": "",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-26T16:00:00",
+      "end_datetime": "2026-11-26T19:00:00",
+      "location": "Raum ESS 201 (Emil-Schüller-Straße 12 | 56068 Koblenz)",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/sprachdiagnostik"
+      ],
+      "id": "21813575b291"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Sprachencafé",
+      "title_en": "Language Café",
+      "description_original": "Im Sprachencafé können Sie Ihre Sprachkenntnisse im Gespräch mit Muttersprachler*innen und anderen Lernenden vertiefen. Uniangehörige und Gäste sind willkommen.",
+      "description_en": "At the Language Café you can improve your language skills by chatting with native speakers and other learners. University members and guests are welcome.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-26T18:30:00",
+      "end_datetime": "2026-11-26T20:00:00",
+      "location": "neue Mensa",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "International Week Program"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+        "https://olat.vcrp.de/auth/RepositoryEntry/3888809244/CourseNode/113556843067460"
+      ],
+      "id": "c9a712901fc5"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Studentische Stunde",
+      "title_en": "Student Hour",
+      "description_original": "Wenn dich unser Programm interessiert und du noch mehr erfahren willst, dann komm diesen Mittwoch zur studentischen Stunde auf den Mikadoplatz und sprich uns an!",
+      "description_en": "If you are interested in our program and want to learn more, come this Wednesday to the student hour at Mikadoplatz and talk to us!",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-27T00:00:00",
+      "end_datetime": null,
+      "location": "Mikadoplatz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "cccbf4fca38d"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Grenzen setzen. Selbstbewusst handeln. Gemeinsam stark. - Interaktiver Workshop für Studentinnen",
+      "title_en": "Setting Boundaries. Acting Confidently. Strong Together. - Interactive Workshop for Female Students",
+      "description_original": "Interaktiver Workshop des Gleichstellungsbüros, um Strategien der Selbstbehauptung und klare Positionierung im Umgang mit Grenzüberschreitungen zu lernen. Die Teilnahme ist kostenlos und auf 15 Studentinnen beschränkt.",
+      "description_en": "Interactive workshop by the Office for Gender Equality to learn self-assertion strategies and clear positioning when dealing with boundary violations. Participation is free and limited to 15 female students.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-27T00:00:00",
+      "end_datetime": null,
+      "location": null,
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/gleichstellung/grenzen-setzen-studentinnen",
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "502075ba6fc6"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "China Crashkurs – Einblicke in die Kultur und Sprache Chinas",
+      "title_en": "China Crash Course – Insights into Chinese Culture and Language",
+      "description_original": "Workshop zur Kultur und Sprache Chinas, inklusive Medienbild, Klischees, Schriftzeichen und Aussprache. Anmeldung erforderlich.",
+      "description_en": "Workshop on Chinese culture and language, including media perception, stereotypes, characters, and pronunciation. Registration required.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-27T12:00:00",
+      "end_datetime": "2026-11-27T17:00:00",
+      "location": "C206",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+      "is_free": true,
+      "sources": [
+        "International Week Program"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+        "https://olat.vcrp.de/url/RepositoryEntry/3888809244"
+      ],
+      "id": "d57c59565271"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Mehr als K-Pop: Koreanische Kultur erleben",
+      "title_en": "Beyond K‑Pop: Experience Korean Culture",
+      "description_original": "Tauchen Sie ein in die faszinierende Welt der koreanischen Kultur! Der interaktive Workshop behandelt Sprache, Essen, Geschichte und aktuelle Hanbok‑Mode.",
+      "description_en": "Dive into the fascinating world of Korean culture! This interactive workshop covers language, food, history, and current Hanbok fashion.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-28T10:00:00",
+      "end_datetime": "2026-11-28T15:00:00",
+      "location": "F522",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+      "is_free": true,
+      "sources": [
+        "International Week Program"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+        "https://olat.vcrp.de/url/RepositoryEntry/3888809244"
+      ],
+      "id": "329963725d28"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "description_en": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-29T12:00:00",
+      "end_datetime": "2026-11-29T14:00:00",
+      "location": "Room F-312",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "61a88cc15b89"
+    },
+    {
+      "original_lang": "mixed",
+      "title_original": "❄️🦋 Winter Uni Program Now Online - 30.11. - 04.12.🦋❄️",
+      "title_en": "❄️🦋 Winter Uni Program Now Online - Nov 30 - Dec 04 🦋❄️",
+      "description_original": "Das Programm für die WinterUni ist online. Die Veranstaltungen finden vom 30.11. bis 04.12. statt.",
+      "description_en": "The Winter Uni program is now online. Events take place from Nov 30 to Dec 04.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-30T00:00:00",
+      "end_datetime": "2026-12-04T23:59:59",
+      "location": null,
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "b48e40922698"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Täglicher Glühweinausschank am Mikadoplatz",
+      "title_en": "Daily mulled wine stand at Mikadoplatz",
+      "description_original": "Glühwein wird täglich von 12:00 bis 15:00 Uhr am Mikadoplatz ausgeschenkt – faire Preise und gute Stimmung.",
+      "description_en": "Mulled wine is served daily from 12:00 to 15:00 at Mikadoplatz – affordable prices and a friendly atmosphere.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-30T12:00:00",
+      "end_datetime": "2026-11-30T15:00:00",
+      "location": "Mikadoplatz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "149dd682004b"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Gelnägel-Workshop",
+      "title_en": "Gel Nails Workshop",
+      "description_original": "Lerne, wie du Gelnägel selbst machst – von Vorbereitung bis UV‑Gel‑Auftrag, inkl. Praxis an den eigenen Nägeln.",
+      "description_en": "Learn how to do gel nails yourself – from preparation to UV‑gel application, with hands‑on practice on your own nails.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-11-30T16:00:00",
+      "end_datetime": "2026-11-30T19:00:00",
+      "location": "Raum D238",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "8fd5af092656"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Bingo vol. 6 - The final Round",
+      "title_en": "Bingo vol. 6 - The Final Round",
+      "description_original": "Alles hat ein Ende, nur die Bingokarte hat 75 Zahlen! Nach unzähligen Runden, jeder Menge Gewinnen und hoffentlich genauso vielen glücklichen Gewinner*innen verabschieden sich Lukas, Tonki und Wolfi mit einem letzten großen Bingo-Abend! Am 30.11. von 18-22 Uhr in der Alten Mensa im D‑Gebäude heißt es ein letztes Mal: Augen auf, Stifte bereit und Daumen drücken! Rund 50 Gewinne warten auf euch! Eintritt frei! Die Einnahmen werden an soziale Zwecke gespendet.",
+      "description_en": "After many rounds of bingo, the organizers Lukas, Tonki and Wolfi host a final bingo night on 30 Nov from 18:00 to 22:00 in the Old Cafeteria (D‑building). Around 50 prizes are offered and entry is free, with proceeds donated to charitable causes.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-11-30T18:00:00",
+      "end_datetime": "2026-11-30T22:00:00",
+      "location": "In der Mensa",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026",
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "d132ed8e4438"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Urabstimmung",
+      "title_en": "Referendum",
+      "description_original": "Das Studierendenparlament der 3. Legislatur der Universität Koblenz hat eine Urabstimmung zu folgendem Wortlaut beschlossen: Einzelne Veranstaltungen/Veranstaltungsreihen dürfen nicht mehr als 25% des gesamten Haushaltsvolumens kosten. Das Stimmrecht kann nur persönlich ausgeübt werden, Briefwahl ist möglich und wird zusammen mit den Briefwahlunterlagen für die Wahlen für das Studierendenparlament beantragt (diese muss bis zum 19. November 2026 beim Wahlrat beantragt werden, weitere Infos unter uni-ko.de/stupa-wahlen).",
+      "description_en": "The Student Parliament of the 3rd legislature of the University of Koblenz has decided on a referendum with the following wording: Individual events or event series may not cost more than 25% of the total budget volume. The right to vote can only be exercised in person; postal voting is possible and will be submitted together with the postal voting documents for the Student Parliament elections (these must be applied for by the Student Parliament by 19 November 2026, further information at uni-ko.de/stupa-wahlen).",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-12-01T09:00:00",
+      "end_datetime": "2026-12-03T15:00:00",
+      "location": "Raum der Wahlen zum Studierendenparlament",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ssv/wahlrat/urabstimmung",
+      "is_free": null,
+      "sources": [
+        "Urabstimmung"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/wahlrat/urabstimmung"
+      ],
+      "id": "9b3f5cd03f3d"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "StuPa-Wahlen 2026",
+      "title_en": "Student Parliament Elections 2026",
+      "description_original": "Die Wahlen des 04. Studierendenparlaments finden vom 01.12.2026 bis 03.12.2026 jeweils von 09:00 bis 15:00 Uhr statt.",
+      "description_en": "The elections for the 04th Student Parliament take place from 01 December 2026 to 03 December 2026, each day from 09:00 to 15:00.",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-12-01T09:00:00",
+      "end_datetime": "2026-12-03T15:00:00",
+      "location": null,
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "cae0c1339cbc"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Täglicher Glühweinausschank am Mikadoplatz",
+      "title_en": "Daily mulled wine stand at Mikadoplatz",
+      "description_original": "Glühwein wird täglich von 12:00 bis 15:00 Uhr am Mikadoplatz ausgeschenkt – faire Preise und gute Stimmung.",
+      "description_en": "Mulled wine is served daily from 12:00 to 15:00 at Mikadoplatz – affordable prices and a friendly atmosphere.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-01T12:00:00",
+      "end_datetime": "2026-12-01T15:00:00",
+      "location": "Mikadoplatz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "6f8567e2f7a9"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Lunchtalk: Erasmus+ Staff Mobility",
+      "title_en": "Lunchtalk: Erasmus+ Staff Mobility",
+      "description_original": "Digitale Veranstaltung in Kooperation des IFGPZ und des International Relations Office. Anmeldung erforderlich.",
+      "description_en": "Digital event in cooperation between IFGPZ and the International Relations Office. Registration required.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-01T13:00:00",
+      "end_datetime": "2026-12-01T14:00:00",
+      "location": "online",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+      "is_free": true,
+      "sources": [
+        "International Week Program"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/lunchtalk-erasmus-staff-mobility-dez-26"
+      ],
+      "id": "299436e2c1f5"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Majong spielen mit HSG Majong",
+      "title_en": "Playing Mahjong with HSG Mahjong",
+      "description_original": "Entspanntes Mahjong‑Spielen mit Tee und gemütlicher Atmosphäre – ideal zum Ausklang des Uni‑Tages.",
+      "description_en": "Relaxed Mahjong playing with tea in a cozy atmosphere – perfect to unwind after the university day.",
+      "event_language": "Neutral",
+      "category": "Sports & Games",
+      "start_datetime": "2026-12-01T16:00:00",
+      "end_datetime": "2026-12-01T18:00:00",
+      "location": "Raum F312",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "984181d1f720"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Lesung: Christmas Carrol von C. Dickens mit Wolfgang M. Schmitt",
+      "title_en": "Reading: A Christmas Carol by C. Dickens with Wolfgang M. Schmitt",
+      "description_original": "Wolfgang M. Schmitt liest Auszüge aus dem Märchen und analysiert den Text.",
+      "description_en": "Wolfgang M. Schmitt reads excerpts from the story and analyzes the text.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-01T18:30:00",
+      "end_datetime": null,
+      "location": "Raum E113",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "697c9cfd6262"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "WinterUni Quiz - \"Halbwissen & Kaltgetränke\"",
+      "title_en": "WinterUni Quiz - \"Half-Knowledge & Cold Drinks\"",
+      "description_original": "Quiz-Night mit lustigen Elementen und Getränken. Teams von 4 bis 8 Personen können Preise gewinnen.",
+      "description_en": "Quiz night with fun elements and drinks. Teams of 4 to 8 people can win prizes.",
+      "event_language": "DE",
+      "category": "Sports & Games",
+      "start_datetime": "2026-12-01T20:15:00",
+      "end_datetime": null,
+      "location": "Raum E313",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "78f387c3cbd5"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Auslandsmesse \"Ich bin dann mal weg...\"",
+      "title_en": "Study Abroad Fair \"I'll be off...\"",
+      "description_original": "Die Auslandsmesse findet am 2. Dezember von 11:00 bis 15:30 Uhr statt und bietet Messestände sowie Info‑Veranstaltungen zur Planung eines Auslandsaufenthalts.",
+      "description_en": "The study abroad fair takes place on 2 December from 11:00 to 15:30 and offers booths and information sessions for planning an overseas stay.",
+      "event_language": "DE",
+      "category": "International",
+      "start_datetime": "2026-12-02T11:00:00",
+      "end_datetime": "2026-12-02T15:30:00",
+      "location": "Universität Koblenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "International Week",
+        "International Week Program"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week/international-week-1",
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
+        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/ich-bin-dann-mal-weg"
+      ],
+      "id": "cdd540150cd8"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Wintermarkt auf dem Mikadoplatz",
+      "title_en": "Winter Market on Mikado Square",
+      "description_original": "Am Mittwoch 02.12. wartet von 12–15 Uhr ein Wintermarkt mit Ständen, Waffeln, Infoständen & Djs und mehr auf Euch. Einige Kooperationsparnter*innen sind bereits dabei. Zudem gibts lecker Glühwein und brandheiße Infos zur kommenden SommerUni.",
+      "description_en": "On Wednesday 2 Dec from 12:00 to 15:00 a winter market with stalls, waffles, information booths and DJs will take place on campus, with hot mulled wine and information about the upcoming SummerUni.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-02T13:00:00",
+      "end_datetime": "2026-12-02T15:00:00",
+      "location": "Mikadoplatz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026",
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "1f2f3f6d3f21"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Bowlen mit HSG Campus Connect",
+      "title_en": "Bowling with HSG Campus Connect",
+      "description_original": "Bowling am 02.12.2026 ab 17:00 Uhr im Bowling Room Koblenz, inkl. Schuhe und Freigetränk, Anmeldung per Mail.",
+      "description_en": "Bowling on 2 Dec 2026 from 17:00 at the Bowling Room Koblenz, shoes and a free drink included, register via email.",
+      "event_language": "Neutral",
+      "category": "Sports & Games",
+      "start_datetime": "2026-12-02T17:00:00",
+      "end_datetime": null,
+      "location": "Bowling Room Koblenz",
+      "registration_required": true,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "cc7ad1d06cc9"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "High-School-Musical Watch & Sing-Party",
+      "title_en": "High School Musical Watch & Sing Party",
+      "description_original": "Wir schauen High School Musical und singen mit. Glühwein, Snacks und 2000er-Nostalgie.",
+      "description_en": "We watch High School Musical and sing along. Mulled wine, snacks, and 2000s nostalgia.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-02T18:00:00",
+      "end_datetime": "2026-12-02T20:00:00",
+      "location": "Raum M001",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "86fd38cbdf3e"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Spieleabend – Kooperation AK WinterUni & HSG Siedler des Campus",
+      "title_en": "Game Night – Cooperation AK WinterUni & HSG Campus Settlers",
+      "description_original": "Spieleabend am 02.12.2026 ab 18:00 Uhr in den Räumen F312 und F313, kostenlos, keine Anmeldung nötig.",
+      "description_en": "Game night on 2 Dec 2026 starting at 18:00 in rooms F312 and F313, free entry, no registration required.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-02T18:00:00",
+      "end_datetime": null,
+      "location": "Raum E312 & E313",
+      "registration_required": false,
+      "registration_url": "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026",
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "4c7794885d0f"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Mario-Kart-Turnier",
+      "title_en": "Mario Kart Tournament",
+      "description_original": "Ein Mario‑Kart‑Turnier mit Snacks & Drinks, Anmeldung erforderlich.",
+      "description_en": "Mario Kart tournament with free snacks and drinks; registration required.",
+      "event_language": "Neutral",
+      "category": "Sports & Games",
+      "start_datetime": "2026-12-02T18:00:00",
+      "end_datetime": "2026-12-02T22:00:00",
+      "location": "RAUM FOLGT",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "5c02074fe86e"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Täglicher Glühweinausschank am Mikadoplatz",
+      "title_en": "Daily mulled wine stand at Mikadoplatz",
+      "description_original": "Glühwein wird täglich von 12:00 bis 15:00 Uhr am Mikadoplatz ausgeschenkt – faire Preise und gute Stimmung.",
+      "description_en": "Mulled wine is served daily from 12:00 to 15:00 at Mikadoplatz – affordable prices and a friendly atmosphere.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-03T12:00:00",
+      "end_datetime": "2026-12-03T15:00:00",
+      "location": "Mikadoplatz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "11873cce7cd2"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "International Food Corner",
+      "title_en": "International Food Corner",
+      "description_original": "Veranstaltung des AStA-Referats International, bei der Studierende regionale Gerichte präsentieren können. Alle Speisen werden kostenlos angeboten.",
+      "description_en": "Event by the AStA International department where students can present regional dishes. All food is offered for free.",
+      "event_language": "DE",
+      "category": "International",
+      "start_datetime": "2026-12-03T13:30:00",
+      "end_datetime": "2026-12-03T15:30:00",
+      "location": "Raum D-Foyer",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "2834c8382762"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Theme-Party: Harry Potter in der Studikneipe",
+      "title_en": "Theme Party: Harry Potter in the Student Bar",
+      "description_original": "Magischer Abend in der Studikneipe Florinsmarkt mit Hauszugehörigkeit durch den sprechenden Hut, vier DJs und Shots. Eintritt 3€, Einnahmen an queer&transfriendly-Orgas.",
+      "description_en": "Magical evening at the Florinsmarkt student bar with house sorting by the Sorting Hat, four DJs, and shots. Entry 3€, proceeds to queer & trans-friendly organizations.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-03T20:00:00",
+      "end_datetime": "2026-12-04T01:00:00",
+      "location": "Studikneipe Florinsmarkt",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": false,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "454440f4d606"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Wissenschaftliche Paper schreiben",
+      "title_en": "Writing Scientific Papers",
+      "description_original": "Ein zweiteiliger digitaler Workshop für Promovierende und wissenschaftliche Mitarbeitende",
+      "description_en": "A two‑part digital workshop for PhD candidates and scientific staff.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-04T00:00:00",
+      "end_datetime": "2026-12-04T23:59:59",
+      "location": "Videokonferenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/wissenschaftliche-paper-schreiben-dez-26"
+      ],
+      "id": "d540902e2687"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Geschichte & Gegenwart von queerem & feministischen Aktivismus",
+      "title_en": "History & Present of Queer & Feminist Activism",
+      "description_original": "Vortrag von Eve Obier und Lukas Schaub über die Verteidigung von Grundrechten, kreative Protestformen und die Geschichte sozialer Bewegungen.",
+      "description_en": "Talk by Eve Obier and Lukas Schaub on defending fundamental rights, creative protest forms, and the history of social movements.",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-12-04T00:00:00",
+      "end_datetime": null,
+      "location": "Raum E 114",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "f98d92f3d7ff"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Täglicher Glühweinausschank am Mikadoplatz",
+      "title_en": "Daily mulled wine stand at Mikadoplatz",
+      "description_original": "Glühwein wird täglich von 12:00 bis 15:00 Uhr am Mikadoplatz ausgeschenkt – faire Preise und gute Stimmung.",
+      "description_en": "Mulled wine is served daily from 12:00 to 15:00 at Mikadoplatz – affordable prices and a friendly atmosphere.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-04T12:00:00",
+      "end_datetime": "2026-12-04T15:00:00",
+      "location": "Mikadoplatz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "63235f1282ee"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Jugendproteste in Europa – Eine Generation zwischen Militarisierung, sozialen Krisen und Widerstand",
+      "title_en": "Youth Protests in Europe – A Generation Between Militarization, Social Crises, and Resistance",
+      "description_original": "Diskussion über die gegenwärtige Protestbewegung in Europa, mit Fokus auf Schulstreiks gegen die Wehrpflicht und deren Rolle im europäischen Diskurs.",
+      "description_en": "Discussion on the current protest movement in Europe, focusing on school strikes against conscription and their role in the European discourse.",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-12-04T14:00:00",
+      "end_datetime": "2026-12-04T16:00:00",
+      "location": "Raum E412",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "c3b7ba7c2b1e"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Sicher im Vertretungsunterricht – Werkzeuge und Strategien für Vertretungskräfte",
+      "title_en": "Safe in Substitute Teaching – Tools and Strategies for Substitute Teachers",
+      "description_original": "Sicher im Vertretungsunterricht – Werkzeuge und Strategien für Vertretungskräfte",
+      "description_en": "A workshop for substitute teaching staff.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-04T14:30:00",
+      "end_datetime": "2026-12-04T17:30:00",
+      "location": "D 239",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/vertretungsunterricht"
+      ],
+      "id": "2f1546a90be4"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Biertasting mit der HSG Trinksport",
+      "title_en": "Beer Tasting with HSG Trinksport",
+      "description_original": "Biertasting mit der HSG Trinksport. Anmeldung erforderlich.",
+      "description_en": "Beer tasting with HSG Trinksport. Registration required.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-04T18:00:00",
+      "end_datetime": "2026-12-04T21:00:00",
+      "location": "Raum B013",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26",
+      "is_free": true,
+      "sources": [
+        "WinterUni 2026"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/referate/sommeruni/winteruni26"
+      ],
+      "id": "b804c0ee4091"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Ausflug EPG Baskets",
+      "title_en": "EPG Baskets Game",
+      "description_original": "Basketball auf höchstem Niveau in der 2. Bundesliga, die Baskets Koblenz begrüßen die PSK Lions zum Heimspiel in der EPG-Arena.",
+      "description_en": "Watch the EPG Baskets play against the PSK Lions at the EPG Arena.",
+      "event_language": "Neutral",
+      "category": "Sports & Games",
+      "start_datetime": "2026-12-05T19:30:00",
+      "end_datetime": "2026-12-05T23:59:59",
+      "location": "EPG-Arena auf dem Oberwerth (Jupp-Gauchel-Straße 10, 56075 Koblenz)",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/aktuelles/termine/ausflug-epg-baskets"
+      ],
+      "id": "4a4477cf0f02"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Coffee Lecture: Open Access und Barrierefreiheit: wissenschaftlich publizieren für alle",
+      "title_en": "Coffee Lecture: Open Access and Accessibility: Publishing Science for All",
+      "description_original": "Open Access macht Forschung frei verfügbar – aber ist sie auch für alle nutzbar? Was bedeutet Barrierefreiheit beim wissenschaftlichen Publizieren konkret?",
+      "description_en": "Open Access makes research freely available – but is it also usable for everyone? What does accessibility mean in scientific publishing concretely?",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-09T12:00:00",
+      "end_datetime": "2026-12-09T12:15:00",
+      "location": "online",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/bibliothek/ub-vor-ort/schulungen/termine/tmp/barrierearm-publizieren-091226"
+      ],
+      "id": "3777d2e4c0f6"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "description_en": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-09T12:00:00",
+      "end_datetime": "2026-12-09T14:00:00",
+      "location": "Room F-312, University of Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "5d04d122ec9b"
+    },
+    {
+      "original_lang": "mixed",
+      "title_original": "🎄❄️ THE ERSTI CHRISTMASPARTY IS BACK! 🪩[10.12.2026]",
+      "title_en": "🎄❄️ THE ERSTI CHRISTMAS PARTY IS BACK! 🪩 [Dec 10, 2026]",
+      "description_original": "Christmas party for first‑year students, featuring music and festive activities.",
+      "description_en": "Christmas party for first‑year students, featuring music and festive activities.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-10T00:00:00",
+      "end_datetime": null,
+      "location": null,
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "ebb7c3bf0e88"
+    },
+    {
+      "original_lang": "mixed",
+      "title_original": "🦋🎭✨ WINTERBALL 2026 - WELCOME TO THE GOLDEN TWENTIES! ✨🥂🦋",
+      "title_en": "Winterball 2026 – Welcome to the Golden Twenties!",
+      "description_original": "Glitzer, Glamour und jede Menge nette Leute! Wir nehmen euch mit auf eine Reise in die Goldenen Zwanziger – mit schicken Outfits, ausgelassener Stimmung und einer Nacht voller Tanz und Magie. Doch die 20er stehen genau wie wir nicht nur für Glanz, Federschmuck und geschwungene Tanzbeine, sondern auch für Aus- und Aufbrauch, neue Freiheiten und kulturelle Vielfalt. Genau diesen Spirit wollen wir gemeinsam in Vallendar beim diesjährigen WinterBall aufleben lassen! ",
+      "description_en": "Glitter, glamour and lots of nice people! We take you on a journey to the Golden Twenties – with stylish outfits, carefree mood and a night full of dance and magic. The 20s also stand for new freedoms and cultural diversity, which we want to experience together at the Winter Ball in Vallendar.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-12T18:00:00",
+      "end_datetime": "2026-12-12T23:59:59",
+      "location": "Stadt- und Kongresshalle Vallendar,  Hellenstraße 67, 56179 Vallendar",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/aktuelles/termine/winterball-2026-welcome-to-the-golden-twenties"
+      ],
+      "id": "d19c0b86abd9"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "description_en": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-13T12:00:00",
+      "end_datetime": "2026-12-13T14:00:00",
+      "location": "Room F-312",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "18235b06c259"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Die Betreuungsvereinbarung einsetzen",
+      "title_en": "Implementing the Supervision Agreement",
+      "description_original": "Eine digitale Informationsveranstaltung für Promotionsinteressierte und Promovierende",
+      "description_en": "A digital information event for prospective and current PhD candidates.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-14T11:00:00",
+      "end_datetime": "2026-12-14T13:00:00",
+      "location": "Videokonferenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/die-betreuungsvereinbarung-einsetzen-dez-26"
+      ],
+      "id": "faf482fc0ed5"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Literaturverwaltung mit Zotero",
+      "title_en": "Literature Management with Zotero",
+      "description_original": "In dem Workshop werden die Grundlagen und hilfreiche Tipps zur Literaturverwaltungssoftware Zotero vermittelt.",
+      "description_en": "The workshop teaches the basics and helpful tips for the literature management software Zotero.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-15T13:00:00",
+      "end_datetime": "2026-12-15T14:30:00",
+      "location": "Bibliothek",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/bibliothek/ub-vor-ort/schulungen/termine/tmp/literaturverwaltung-mit-zotero"
+      ],
+      "id": "5f393aad261b"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Einladung zur Auftaktveranstaltung des Familienservices",
+      "title_en": "Invitation to the Kick-off Event of the Family Service",
+      "description_original": "Vorstellung des neuen Familienservices der Universität Koblenz mit Informationen, Sekt, Snacks und Kinderbetreuung am 15. Dezember von 15:00 bis 17:00 Uhr.",
+      "description_en": "Presentation of the new Family Service at the University of Koblenz with information, sparkling wine, snacks and childcare on 15 December from 15:00 to 17:00.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-15T15:00:00",
+      "end_datetime": "2026-12-15T17:00:00",
+      "location": null,
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/gleichstellung/auftakt-familienservice",
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "5ab2ebad6d3f"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Ersti WinterWorld – Ein Abend voller Winterzauber ❄",
+      "title_en": "Ersti WinterWorld – An Evening Full of Winter Magic",
+      "description_original": "Am 15. Dezember ab 18 Uhr verwandelt sich die Mensaria in eine gemütliche Winterwelt. Freut euch auf einen entspannten Jahresabschluss mit Weihnachtsfilm, Wichteln, Play Area, Kinderpunsch und Glühwein. Bringt eure Lieblingsplätzchen und gerne auch eine Kuscheldecke mit – gemeinsam machen wir es uns richtig schön!",
+      "description_en": "On December 15 from 6 pm the Mensaria transforms into a cozy winter world. Enjoy a relaxed year‑end with a Christmas film, secret Santa, play area, children’s punch and mulled wine. Bring your favorite cookies and a blanket – we’ll make it nice together!",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-15T18:00:00",
+      "end_datetime": "2026-12-15T23:59:59",
+      "location": "Neue Mensa (Grüne Theke)",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/asta/aktuelles/termine/ersti-winterworld",
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "7943f7a6900d"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Wichteln",
+      "title_en": "Secret Santa",
+      "description_original": "Melde dich für das Wichteln an, bringe deine Lieblingsplätzchen mit und genieße einen magischen Winterabend.",
+      "description_en": "Sign up for the Secret Santa, bring your favorite cookies, and enjoy a magical winter evening.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-15T18:00:00",
+      "end_datetime": null,
+      "location": "Mensaria",
+      "registration_required": true,
+      "registration_url": "https://wichteln.campus-koblenz.app/ersti-winterworld",
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "b4711cc47269"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "3.2. Vorstellung der Listen",
+      "title_en": "3.2. Introduction of the Lists",
+      "description_original": "Ein Wichteln (Secret Santa) für Erstsemester am 15. Dezember 2026 ab 18:00 in der Mensaria. Teilnahme optional, Anmeldung über Link.",
+      "description_en": "A Secret Santa event for first-year students on 15 December 2026 from 18:00 in the Mensaria. Participation is optional, sign‑up via link.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-15T18:00:00",
+      "end_datetime": null,
+      "location": "Mensaria",
+      "registration_required": false,
+      "registration_url": "https://wichteln.campus-koblenz.app/ersti-winterworld",
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "06dff72e970f"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Cocktail Special – Sonderpreis im Florinsmarkt",
+      "title_en": "Cocktail Special – Discounted Cocktail at Florinsmarkt",
+      "description_original": "Jeden 3. Donnerstag im Monat gibt es einen Lieblingscocktail zum Sonderpreis (1 € + Augenzahl). Am 17.12.2026 in der Studikneipe Florinsmarkt, Burgstraße 16, Koblenz.",
+      "description_en": "Every 3rd Thursday of the month a favorite cocktail is offered at a special price (1 € + dice roll). Upcoming on 17 December 2026 at the student bar Florinsmarkt, Burgstraße 16, Koblenz.",
+      "event_language": "Neutral",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-17T00:00:00",
+      "end_datetime": null,
+      "location": "Studikneipe Florinsmarkt, Burgstraße 16, 56068 Koblenz",
+      "registration_required": true,
+      "registration_url": "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11",
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "8568dc565a17"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Sprechstunde Berufs- und Studienberatung – 17. Dezember 2026",
+      "title_en": "Career and Study Counseling Drop-in – 17 December 2026",
+      "description_original": "Beratungstermin im N‑Gebäude (Sozialbüro) von 10:00 bis 14:00 Uhr für Fragen zur beruflichen Orientierung und Studienplanung.",
+      "description_en": "Counseling session in the N‑building (social office) from 10:00 to 14:00 for questions about career orientation and study planning.",
+      "event_language": "DE",
+      "category": "Career & Jobs",
+      "start_datetime": "2026-12-17T10:00:00",
+      "end_datetime": "2026-12-17T14:00:00",
+      "location": "N‑Gebäude (Sozialbüro)",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "0d77830a330d"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Stammtisch Neurodivergenz",
+      "title_en": "Neurodivergence Meet‑up",
+      "description_original": "Monatlicher Stammtisch zum Austausch über Neurodivergenz, jeweils am 3. Mittwoch im Monat in der Studikneipe Florinsmarkt.",
+      "description_en": "Monthly meet‑up for discussing neurodivergence, held on the third Wednesday of each month at the Studikneipe Florinsmarkt.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-20T00:00:00",
+      "end_datetime": null,
+      "location": "Studikneipe Florinsmarkt",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "db956a4de584"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "description_en": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-23T12:00:00",
+      "end_datetime": "2026-12-23T14:00:00",
+      "location": "Room F-312, University of Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "0d55349fd499"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "description_en": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-27T12:00:00",
+      "end_datetime": "2026-12-27T14:00:00",
+      "location": "Room F-312",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "c23119ae3dbf"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "description_en": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-06T12:00:00",
+      "end_datetime": "2027-01-06T14:00:00",
+      "location": "Room F-312, University of Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "f5c1201b6e0a"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "description_en": "Teaching can be rewarding, but it also comes with many challenges, such as managing stress, dealing with performance pressure and feedback, handling emotional situations, or questioning your future as a teacher.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-10T12:00:00",
+      "end_datetime": "2027-01-10T14:00:00",
+      "location": "Room F-312",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "e7f2341182be"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Balancierung von Studium und Pflege",
+      "title_en": "Balancing Studies and Caregiving",
+      "description_original": "Vortrag von Prof. Dr. Inken Lind (TH Köln) über die Herausforderungen und Bedarfe von Studierenden und wissenschaftlichem Personal mit Pflegeverantwortung. Eine Anmeldung ist nicht erforderlich.",
+      "description_en": "Lecture by Prof. Dr. Inken Lind (TH Köln) on the challenges and needs of students and academic staff with caregiving responsibilities. No registration required.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-12T16:00:00",
+      "end_datetime": "2027-01-12T18:00:00",
+      "location": "Raum M001",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "AStA Newsletter"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/blancierung-studium-pflege",
+        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
+      ],
+      "id": "e44ac1232c90"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Gender-Innovation in sozial- und geisteswissenschaftlichen Kanons? Lehr- und Einführungsbücher auf dem Prüfstand",
+      "title_en": "Gender-Innovation in Social and Humanities Canons? Textbooks Under Scrutiny",
+      "description_original": "Ein Vortrag aus der Online-Vortragsreihe Innovative Frauen im Fokus | Impulse zu \"Exzellent und trotzdem unsichtbar?! Wege zu mehr Sichtbarkeit für Frauen in Wissenschaft und Innovation\"",
+      "description_en": "A lecture from the online series 'Innovative Women in Focus' on increasing visibility for women in science and innovation.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-13T12:00:00",
+      "end_datetime": "2027-01-13T13:00:00",
+      "location": "Online",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/gender-innovation"
+      ],
+      "id": "fd2706982453"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Brown-Bag-Talk Sicherheitsforschung",
+      "title_en": "Brown-Bag-Talk Security Research",
+      "description_original": "Gemeinsam forschen, Kompetenzen entdecken, Kooperationen stärken",
+      "description_en": "Researching together, discovering competencies, strengthening cooperation.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-13T12:15:00",
+      "end_datetime": "2027-01-13T13:45:00",
+      "location": null,
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/forschung/forschende/veranstaltungen/brown-bag-talk-sicherheitsforschung"
+      ],
+      "id": "ed7d5c2eeaa3"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Poster Design and Presentation",
+      "title_en": "Poster Design and Presentation",
+      "description_original": "A Workshop for Doctoral Candidates, Postdocs and Scientific Staff",
+      "description_en": "A workshop for doctoral candidates, postdocs, and scientific staff.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-14T09:00:00",
+      "end_datetime": "2027-01-14T17:00:00",
+      "location": "Emil-Schüller-Str. 12, Raum 201",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/poster-design-and-presentation-jan-27"
+      ],
+      "id": "b144205cc4fd"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Equality Bites - Gleichstellung zum Mittagessen",
+      "title_en": "Equality Bites - Equality at Lunch",
+      "description_original": "Zum Auftakt im neuen Jahr stellt Andrea Bossmann in der Veranstaltungsreihe \"Equality Bites - Gleichstellung zum Mittagessen\" die Frage: Was haben die MINT-Fächer mit Diversität zu tun? ",
+      "description_en": "Andrea Bossmann asks: What do STEM subjects have to do with diversity? Part of the 'Equality Bites' series.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-14T12:00:00",
+      "end_datetime": "2027-01-14T13:00:00",
+      "location": "Zoom",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/equality-bites-gleichstellung-zum-mittagessen-3"
+      ],
+      "id": "5914653e9bab"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "[Warteliste] Publish and Shine! Erfolgreich publizieren und gesehen werden – Dissertationen und Fachartikel im Fokus",
+      "title_en": "[Waitlist] Publish and Shine! Successful Publishing and Visibility – Focus on Dissertations and Academic Articles",
+      "description_original": "Ein Workshop für Promovierende und Postdoktorand*innen",
+      "description_en": "A workshop for doctoral candidates and postdocs.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-15T09:30:00",
+      "end_datetime": "2027-01-15T12:30:00",
+      "location": "Emil-Schüller-Straße 12, Raum 201",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/publish-and-shine-jan-27",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/publish-and-shine-jan-27"
+      ],
+      "id": "f79e3e1e6039"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Connect & Create - Job in echt: Wie gelingt der Einstieg und was macht man da eigentlich?",
+      "title_en": "Connect & Create - Real Jobs: How to Start and What You Actually Do",
+      "description_original": "",
+      "description_en": "A career event for students exploring real job entry and responsibilities.",
+      "event_language": "DE",
+      "category": "Career & Jobs",
+      "start_datetime": "2027-01-19T17:00:00",
+      "end_datetime": "2027-01-19T19:00:00",
+      "location": "Emil-Schüller-Straße 12, Raum 201",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ikarus/karriere/termine/connectcreate190127",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ikarus/karriere/termine/connectcreate190127"
+      ],
+      "id": "2488efad8a66"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Workshop",
+      "title_en": "Workshop",
+      "description_original": "Ein digitaler Workshop zur Entwicklung von Drittmittelstrategien für fortgeschrittene Postdoktoranden und Professoren.",
+      "description_en": "A digital workshop to develop third‑party funding strategies for advanced postdoctoral researchers and professors.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-20T09:30:00",
+      "end_datetime": "2027-01-20T17:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/veranstaltungsanmeldung",
+      "is_free": null,
+      "sources": [
+        "Drittmittel-Know-how: Die passende Förderstrategie für mein Forschungsprofil"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/drittmittel-know-how-jan-27"
+      ],
+      "id": "aefea4b49e15"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Drittmittel-Know-how: Die passende Förderstrategie für mein Forschungsprofil",
+      "title_en": "Third-Party Funding Know-How: The Right Funding Strategy for My Research Profile",
+      "description_original": "Ein digitaler Workshop für fortgeschrittene Postdoktorand*innen und Professor*innen.",
+      "description_en": "A digital workshop for advanced postdocs and professors.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-20T09:30:00",
+      "end_datetime": "2027-01-20T17:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/veranstaltungsanmeldung",
+      "is_free": null,
+      "sources": [
+        "Drittmittel-Know-how: Die passende Förderstrategie für mein Forschungsprofil"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/drittmittel-know-how-jan-27"
+      ],
+      "id": "c9a5b13e3d32"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Coffee Lecture: Predatory Publishing erkennen und seriöse Open Access Journals finden",
+      "title_en": "Coffee Lecture: Identifying Predatory Publishing and Finding Reputable Open Access Journals",
+      "description_original": "Sie möchten Open Access publizieren, sind sich aber unsicher, ob ein Journal seriös ist? Wie lassen sich zweifelhafte Angebote von etablierten Open Access Zeitschriften unterscheiden?",
+      "description_en": "Want to publish Open Access but unsure if a journal is reputable? Learn to distinguish dubious offers from established Open Access journals.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-20T12:00:00",
+      "end_datetime": "2027-01-20T12:15:00",
+      "location": "online",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/bibliothek/ub-vor-ort/schulungen/termine/tmp/predatory-publishing-200127",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/bibliothek/ub-vor-ort/schulungen/termine/tmp/predatory-publishing-200127"
+      ],
+      "id": "f37a3abdcea7"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "description_en": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-20T12:00:00",
+      "end_datetime": "2027-01-20T14:00:00",
+      "location": "Room F-312, University of Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "bd9f090e482f"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Arbeitsplatz Museum - forschen, ausstellen, vermitteln",
+      "title_en": "Workplace Museum - Research, Exhibit, Communicate",
+      "description_original": "Vortrag Prof. Dr. Andreas Schmauder · Landesmuseum Koblenz",
+      "description_en": "Lecture by Prof. Dr. Andreas Schmauder at the Landesmuseum Koblenz.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-20T13:00:00",
+      "end_datetime": "2027-01-20T14:00:00",
+      "location": "E 114",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/institut-fuer-geschichte/termine/arbeitsplatz_museum_vortrag",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/institut-fuer-geschichte/termine/arbeitsplatz_museum_vortrag"
+      ],
+      "id": "789531b925c9"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Einzelcoachings",
+      "title_en": "Individual Coaching",
+      "description_original": "Einzelcoachings zur individuellen Drittmittelstrategie.",
+      "description_en": "Individual coaching sessions to advise on personal third‑party funding strategy.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-21T00:00:00",
+      "end_datetime": null,
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/veranstaltungsanmeldung",
+      "is_free": null,
+      "sources": [
+        "Drittmittel-Know-how: Die passende Förderstrategie für mein Forschungsprofil"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/drittmittel-know-how-jan-27"
+      ],
+      "id": "b40e2a1be53f"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Eignungsprüfung Musik",
+      "title_en": "Music Aptitude Test",
+      "description_original": "Vom 25.01. bis 29.01.27 finden Eignungsprüfungen für das Lehramtsfach Musik statt. Anmeldeschluss hierfür ist der 03.01.27.",
+      "description_en": "From 25 January to 29 January 2027, aptitude tests for the music teaching qualification will take place. The application deadline is 3 January 2027.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-25T08:00:00",
+      "end_datetime": "2027-01-29T16:00:00",
+      "location": "Gebäude F",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/musik/termine/eignungspruefung",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "Eignungsprüfung Musik"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/musik/termine/eignungspruefung"
+      ],
+      "id": "57becd275fdd"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Der nächste Schritt in Ihrer wissenschaftlichen Karriere",
+      "title_en": "The Next Step in Your Scientific Career",
+      "description_original": "Eine Vernetzungsveranstaltung für Promotionsinteressierte und Betreuende von Master- sowie Doktorarbeiten in den Naturwissenschaften, der Mathematik, der Informatik und den MINT-Didaktiken",
+      "description_en": "A networking event for PhD candidates and supervisors of Master and Doctoral projects in natural sciences, mathematics, computer science, and MINT didactics.",
+      "event_language": "DE",
+      "category": "Career & Jobs",
+      "start_datetime": "2027-01-27T12:15:00",
+      "end_datetime": "2027-01-27T13:30:00",
+      "location": "Universitätsstr. 1, Foyer G-Gebäude",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/der-naechste-schritt-in-ihrer-wissenschaftlichen-karriere-jan-27",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/der-naechste-schritt-in-ihrer-wissenschaftlichen-karriere-jan-27"
+      ],
+      "id": "7b870fb33f44"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Lehramt und Promotion",
+      "title_en": "Teaching Degree and Doctorate",
+      "description_original": "Eine digitale Informationsveranstaltung für Promotionsinteressierte",
+      "description_en": "A digital information event for those interested in pursuing a doctorate.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-01-28T16:00:00",
+      "end_datetime": "2027-01-28T18:30:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/lehramt-und-promotion-jan-27",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/lehramt-und-promotion-jan-27"
+      ],
+      "id": "bc6205aa2e7a"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Strategien für die Literaturrecherche",
+      "title_en": "Literature Research Strategies",
+      "description_original": "Ein digitaler Kurzimpuls für Promotionsinteressierte und Promovierende",
+      "description_en": "A short digital impulse for prospective and current doctoral candidates on literature research strategies.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-02T15:00:00",
+      "end_datetime": "2027-02-02T17:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/strategien-fuer-die-literaturrecherche-feb-27",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/strategien-fuer-die-literaturrecherche-feb-27"
+      ],
+      "id": "a596522a5dcb"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
+      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
+      "description_original": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "description_en": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-03T12:00:00",
+      "end_datetime": "2027-02-03T14:00:00",
+      "location": "Room F-312, University of Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
+      "is_free": true,
+      "sources": [
+        "Self-Regulation and Reflective  Practice in Teacher Education"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
+      ],
+      "id": "10aca89c221b"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "Successful Speaking",
+      "title_en": "Successful Speaking",
+      "description_original": "A Workshop for Doctoral Candidates, Postdocs, Scientific Staff and Science Managers",
+      "description_en": "A workshop for doctoral candidates, postdocs, scientific staff and science managers.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-04T09:00:00",
+      "end_datetime": "2027-02-04T17:00:00",
+      "location": "Emil-Schüller-Straße, Raum 201",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/successful-speaking-feb-27",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/successful-speaking-feb-27"
+      ],
+      "id": "cb9d98db7e96"
+    },
+    {
+      "original_lang": "mixed",
+      "title_original": "Equality Bites - Gleichstellung zum Mittagessen",
+      "title_en": "Equality Bites – Equality at Lunch",
+      "description_original": "Im Februar spricht Dr. Barbara Zibell in ´ der Veranstaltungsreihe \"Equality Bites - Gleichstellung über Caring Cities – Caring Communities: Feministische Stadtkritik und Perspektiven einer anderen Stadt(-planung)",
+      "description_en": "In February, Dr. Barbara Zibell speaks in the series 'Equality Bites – Equality over Caring Cities – Caring Communities: Feminist urban critique and perspectives on alternative city planning.'",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-11T12:00:00",
+      "end_datetime": "2027-02-11T13:00:00",
+      "location": "Zoom",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/gleichstellung/equality-bites-gleichstellung-zum-mittagessen-4",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/equality-bites-gleichstellung-zum-mittagessen-4"
+      ],
+      "id": "742310b51ec9"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "KI-Tools für Marketing und Wissenschaftskommunikation",
+      "title_en": "AI Tools for Marketing and Science Communication",
+      "description_original": "Ein digitaler Workshop für Postdoktorand*innen, Professor*innen, wissenschaftliche Mitarbeitende und Wissenschaftsmanager*innen",
+      "description_en": "A digital workshop on AI tools for marketing and science communication, aimed at postdoctoral researchers, professors, scientific staff, and science managers.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-12T09:00:00",
+      "end_datetime": "2027-02-12T16:30:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/ki-tools-fuer-marketing-und-wissenschaftskommunikation-feb-27",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/ki-tools-fuer-marketing-und-wissenschaftskommunikation-feb-27"
+      ],
+      "id": "96d053df17ca"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Herausforderungen des demographischen Wandels für Hochschulen",
+      "title_en": "Challenges of Demographic Change for Universities",
+      "description_original": "Ein Vortrag aus der Veranstaltungsreihe von CHEtalk feat. Familien in der Hochschule e.V.",
+      "description_en": "A lecture from the CHEtalk series featuring 'Families in Higher Education' on the challenges of demographic change for universities.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-18T12:00:00",
+      "end_datetime": "2027-02-18T13:00:00",
+      "location": "Online",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/gleichstellung/herausforderungen-demographischer-wandel-hochschulen",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/herausforderungen-demographischer-wandel-hochschulen"
+      ],
+      "id": "ebd8a6176aa7"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Governance und Organisation von Universitäten",
+      "title_en": "Governance and Organization of Universities",
+      "description_original": "Eine digitale Informationsveranstaltung für Postdoktorand*innen, W1-Professor*innen, wissenschaftliche Mitarbeitende und Wissenschaftsmanager*innen",
+      "description_en": "A digital information session for postdoctoral researchers, W1 professors, scientific staff, and science managers.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-19T09:00:00",
+      "end_datetime": "2027-02-19T13:00:00",
+      "location": "Videokonferenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/governance-und-organisation-von-universitaeten-feb-27"
+      ],
+      "id": "3c6bcc486834"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Digital Office | E-Akte",
+      "title_en": "Digital Office | E-File",
+      "description_original": "Digital Office: Wie Sie eine verbindliche Ablagestruktur effizient im Team gestalten - Handwerkszeug zu einer nachvollziehbaren, strukturierten Ablage (E-Akte)",
+      "description_en": "Digital Office: How to efficiently design a binding filing structure in a team – tools for a traceable, structured filing (E-File).",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-24T09:00:00",
+      "end_datetime": "2027-02-24T16:00:00",
+      "location": "Online; 24.02. & 10.03.2027",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/digital-office"
+      ],
+      "id": "bd23174229c3"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Optionales Get-together",
+      "title_en": "Optional Get-together",
+      "description_original": "Ein informelles Treffen am Vorabend des Workshops, um Kontakte zu knüpfen und erste Gespräche zu führen.",
+      "description_en": "An informal gathering on the evening before the workshop to network and have initial discussions.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-24T19:00:00",
+      "end_datetime": null,
+      "location": "Universität Kassel",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/promotionen-gut-betreut-feb-27",
+      "is_free": false,
+      "sources": [
+        "Promotionen gut betreut"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/promotionen-gut-betreut-feb-27"
+      ],
+      "id": "7ad7c66efa01"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Promotionen gut betreut",
+      "title_en": "Promotions Well Supported",
+      "description_original": "Ein zweitägiger Präsenz-Workshop für Wissenschaftler*innen am Anfang ihrer Betreuungsverantwortung",
+      "description_en": "A two-day in-person workshop for scientists at the beginning of their supervisory responsibilities.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-25T00:00:00",
+      "end_datetime": "2027-02-26T23:59:59",
+      "location": "Universität Kassel",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/promotionen-gut-betreut-feb-27"
+      ],
+      "id": "bf6ae9cb00ad"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Teil 1",
+      "title_en": "Part 1",
+      "description_original": "Erster Tag des zweitägigen Präsenz-Workshops zur guten Promotionsbetreuung mit Vorträgen und Diskussionen.",
+      "description_en": "First day of the two‑day in‑person workshop on good PhD supervision, featuring lectures and discussions.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-25T09:00:00",
+      "end_datetime": "2027-02-25T17:45:00",
+      "location": "Universität Kassel",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/promotionen-gut-betreut-feb-27",
+      "is_free": false,
+      "sources": [
+        "Promotionen gut betreut"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/promotionen-gut-betreut-feb-27"
+      ],
+      "id": "8ce4ac4be663"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Teil 2",
+      "title_en": "Part 2",
+      "description_original": "Zweiter Tag des Workshops, der die Themen Vertiefung, Rechtsfragen und kollegialen Erfahrungsaustausch behandelt.",
+      "description_en": "Second day of the workshop covering deeper topics, legal issues, and collegial experience exchange.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-02-26T08:45:00",
+      "end_datetime": "2027-02-26T16:00:00",
+      "location": "Universität Kassel",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/promotionen-gut-betreut-feb-27",
+      "is_free": false,
+      "sources": [
+        "Promotionen gut betreut"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/promotionsbetreuung/promotionen-gut-betreut-feb-27"
+      ],
+      "id": "f0fed72f6af5"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Hierarchische Kommunikation und ihre Spielregeln verstehen und nutzen – ein wichtiger Erfolgsfaktor für (angehende) Wissenschaftlerinnen",
+      "title_en": "Hierarchical Communication and Its Rules – A Key Success Factor for (Aspiring) Female Scientists",
+      "description_original": "Ein dreiteiliger digitaler Workshop für Postdoktorandinnen, Professorinnen, wissenschaftliche Mitarbeiterinnen und Wissenschaftsmanagerinnen",
+      "description_en": "A three-part digital workshop for postdoctoral women, professors, scientific staff, and science managers.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-03-05T10:00:00",
+      "end_datetime": "2027-03-13T13:00:00",
+      "location": "Videokonferenz",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/hierarchische-kommunikation-und-ihre-spielregeln-verstehen-und-nutzen-maerz-27"
+      ],
+      "id": "4735ebce200d"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Hierarchische Kommunikation und ihre Spielregeln verstehen und nutzen – ein wichtiger Erfolgsfaktor für (angehende) Wissenschaftlerinnen",
+      "title_en": "Hierarchical Communication and Its Rules of Play: Understanding and Utilizing – A Key Success Factor for (Aspiring) Scientists",
+      "description_original": "Ein dreiteiliger digitaler Workshop für Postdoktorandinnen, Professorinnen, wissenschaftliche Mitarbeiterinnen und Wissenschaftsmanagerinnen, der am 05. März 2027 von 10:00 bis 13:00 Uhr per Videokonferenz stattfindet.",
+      "description_en": "A three‑part digital workshop for postdoctoral researchers, professors, research staff and science managers, taking place on 5 March 2027 from 10:00 to 13:00 CET via videoconference.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-03-05T10:00:00",
+      "end_datetime": "2027-03-05T13:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/veranstaltungsanmeldung",
+      "is_free": null,
+      "sources": [
+        "Hierarchische Kommunikation und ihre Spielregeln verstehen und nutzen – ein wichtiger Erfolgsfaktor für (angehende) Wissenschaftlerinnen"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/hierarchische-kommunikation-und-ihre-spielregeln-verstehen-und-nutzen-maerz-27"
+      ],
+      "id": "6b569a569ca5"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Tagung \"Bildung über Sprache[n]\"",
+      "title_en": "Conference \"Education over Language[s]\"",
+      "description_original": "Am 8.-9. März 2027 findet an der Universität Koblenz die Tagung „Bildung über Sprache[n]. Eine Querschnittsaufgabe in Schule, Hochschule und Gesellschaft – forschen, vernetzen, wirksam gestalten“ statt. Sie richtet sich an Wissenschaft, Lehrkräftebildung, schulische Praxis und Bildungspolitik und bietet über 70 Beiträge sowie praxisorientierte Workshops.",
+      "description_en": "On 8‑9 March 2027 the University of Koblenz will host the conference “Education about Language[s]. A cross‑sectional task in school, higher education and society – researching, networking, shaping effectively”. It targets researchers, teacher education, school practice and education policy and offers more than 70 contributions together with practice‑oriented workshops.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-03-08T00:00:00",
+      "end_datetime": "2027-03-09T23:59:59",
+      "location": "Universität Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/tagung-und-thementag-sprachbildung",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "Tagung \"Bildung über Sprache[n]\""
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/tagung-und-thementag-sprachbildung"
+      ],
+      "id": "0206a6202e29"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Hierarchische Kommunikation und ihre Spielregeln verstehen und nutzen – ein wichtiger Erfolgsfaktor für (angehende) Wissenschaftlerinnen",
+      "title_en": "Hierarchical Communication and Its Rules of Play: Understanding and Utilizing – A Key Success Factor for (Aspiring) Scientists",
+      "description_original": "Ein dreiteiliger digitaler Workshop für Postdoktorandinnen, Professorinnen, wissenschaftliche Mitarbeiterinnen und Wissenschaftsmanagerinnen, der am 12. März 2027 von 10:00 bis 13:00 Uhr per Videokonferenz stattfindet.",
+      "description_en": "A three‑part digital workshop for postdoctoral researchers, professors, research staff and science managers, taking place on 12 March 2027 from 10:00 to 13:00 CET via videoconference.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-03-12T10:00:00",
+      "end_datetime": "2027-03-12T13:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/veranstaltungsanmeldung",
+      "is_free": null,
+      "sources": [
+        "Hierarchische Kommunikation und ihre Spielregeln verstehen und nutzen – ein wichtiger Erfolgsfaktor für (angehende) Wissenschaftlerinnen"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/hierarchische-kommunikation-und-ihre-spielregeln-verstehen-und-nutzen-maerz-27"
+      ],
+      "id": "0ae7fb26073d"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Hierarchische Kommunikation und ihre Spielregeln verstehen und nutzen – ein wichtiger Erfolgsfaktor für (angehende) Wissenschaftlerinnen",
+      "title_en": "Hierarchical Communication and Its Rules of Play: Understanding and Utilizing – A Key Success Factor for (Aspiring) Scientists",
+      "description_original": "Ein dreiteiliger digitaler Workshop für Postdoktorandinnen, Professorinnen, wissenschaftliche Mitarbeiterinnen und Wissenschaftsmanagerinnen, der am 19. März 2027 von 10:00 bis 13:00 Uhr per Videokonferenz stattfindet.",
+      "description_en": "A three‑part digital workshop for postdoctoral researchers, professors, research staff and science managers, taking place on 19 March 2027 from 10:00 to 13:00 CET via videoconference.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-03-19T10:00:00",
+      "end_datetime": "2027-03-19T13:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/veranstaltungsanmeldung",
+      "is_free": null,
+      "sources": [
+        "Hierarchische Kommunikation und ihre Spielregeln verstehen und nutzen – ein wichtiger Erfolgsfaktor für (angehende) Wissenschaftlerinnen"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/hierarchische-kommunikation-und-ihre-spielregeln-verstehen-und-nutzen-maerz-27"
+      ],
+      "id": "deed212f1321"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Projektmanagement an Hochschulen – klassisch, agil, hybrid – Teil 1",
+      "title_en": "Project Management at Universities – Classical, Agile, Hybrid – Part 1",
+      "description_original": "Ein zweiteiliger digitaler Workshop für Postdoktorand*innen, wissenschaftliche Mitarbeitende und Wissenschaftsmanager*innen, der am 08. April 2027 von 09:00 bis 16:00 Uhr per Videokonferenz stattfindet.",
+      "description_en": "A two-part digital workshop for postdoctoral researchers, scientific staff and science managers, taking place on 8 April 2027 from 09:00 to 16:00 via video conference.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-04-08T09:00:00",
+      "end_datetime": "2027-04-08T16:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/projektmanagement-an-hochschulen-apr-27",
+      "is_free": null,
+      "sources": [
+        "Projektmanagement an Hochschulen – klassisch, agil, hybrid"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/projektmanagement-an-hochschulen-apr-27"
+      ],
+      "id": "ee8ab8e83a4b"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Projektmanagement an Hochschulen – klassisch, agil, hybrid – Teil 2",
+      "title_en": "Project Management at Universities – Classical, Agile, Hybrid – Part 2",
+      "description_original": "Ein zweiteiliger digitaler Workshop für Postdoktorand*innen, wissenschaftliche Mitarbeitende und Wissenschaftsmanager*innen, der am 09. April 2027 von 09:00 bis 12:00 Uhr per Videokonferenz stattfindet.",
+      "description_en": "A two-part digital workshop for postdoctoral researchers, scientific staff and science managers, taking place on 9 April 2027 from 09:00 to 12:00 via video conference.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-04-09T09:00:00",
+      "end_datetime": "2027-04-09T12:00:00",
+      "location": "Videokonferenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/projektmanagement-an-hochschulen-apr-27",
+      "is_free": null,
+      "sources": [
+        "Projektmanagement an Hochschulen – klassisch, agil, hybrid"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/projektmanagement-an-hochschulen-apr-27"
+      ],
+      "id": "f41b980e5fc3"
+    }
+  ]
+}
