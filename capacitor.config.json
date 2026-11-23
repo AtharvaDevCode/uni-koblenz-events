@@ -1,0 +1,13 @@
+{
+  "appId": "com.atharvadevcode.koblenzevents",
+  "appName": "Koblenz Campus",
+  "webDir": "www",
+  "server": {
+    "url": "https://uni-koblenz-events.vercel.app",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0c0e12"
+  }
+}

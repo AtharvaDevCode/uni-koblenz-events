@@ -1,0 +1,91 @@
+name: Build Android APK
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-android:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Set up Java 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Capacitor dependencies
+        run: npm ci
+
+      - name: Prepare fallback webDir
+        run: |
+          mkdir -p www
+          cp index.html www/
+
+      - name: Add Android platform
+        run: npx cap add android
+
+      - name: Generate Android icons from icon.ico
+        run: |
+          pip install Pillow
+          python - <<'EOF'
+          from pathlib import Path
+          from PIL import Image
+
+          ico_path = Path("icon.ico")
+          res_dir = Path("android/app/src/main/res")
+
+          if ico_path.exists():
+              with Image.open(ico_path) as im:
+                  sizes = im.info.get("sizes") or []
+                  best = None
+                  for w, h in sizes:
+                      im.size = (w, h)
+                      im.load()
+                      if best is None or w > best.width:
+                          best = im.copy()
+                  base = (best or im).convert("RGBA")
+
+              mipmaps = {
+                  "mipmap-mdpi": 48,
+                  "mipmap-hdpi": 72,
+                  "mipmap-xhdpi": 96,
+                  "mipmap-xxhdpi": 144,
+                  "mipmap-xxxhdpi": 192,
+              }
+              for folder, px in mipmaps.items():
+                  out_dir = res_dir / folder
+                  out_dir.mkdir(parents=True, exist_ok=True)
+                  resized = base.resize((px, px), Image.Resampling.LANCZOS)
+                  resized.save(out_dir / "ic_launcher.png")
+                  resized.save(out_dir / "ic_launcher_round.png")
+                  resized.save(out_dir / "ic_launcher_foreground.png")
+          EOF
+
+      - name: Sync Capacitor Android project
+        run: npx cap sync android
+
+      - name: Build debug APK
+        working-directory: android
+        run: chmod +x gradlew && ./gradlew assembleDebug
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: koblenz-campus-events-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
