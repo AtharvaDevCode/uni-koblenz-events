@@ -3,7 +3,7 @@
   "appName": "Koblenz Campus",
   "webDir": "www",
   "server": {
-    "url": "https://uni-koblenz-events.vercel.app",
+    "url": "https://koblenz.vercel.app",
     "cleartext": false
   },
   "android": {
