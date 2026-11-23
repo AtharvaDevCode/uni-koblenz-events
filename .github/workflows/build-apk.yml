@@ -34,45 +34,82 @@ jobs:
         run: |
           mkdir -p www
           cp index.html www/
+          [ -f icon.ico ] && cp icon.ico www/ || true
+          [ -f photo.jpg ] && cp photo.jpg www/ || true
+          [ -f photo.png ] && cp photo.png www/ || true
 
       - name: Add Android platform
         run: npx cap add android
 
-      - name: Generate Android icons from icon.ico
+      - name: Generate Android icons from photo.jpg
         run: |
           pip install Pillow
           python - <<'EOF'
           from pathlib import Path
-          from PIL import Image
+          from PIL import Image, ImageOps
 
-          ico_path = Path("icon.ico")
+          for candidate in ("photo.jpg", "photo.png", "icon.ico"):
+              src_path = Path(candidate)
+              if src_path.exists():
+                  break
+          else:
+              raise FileNotFoundError("No icon image (photo.jpg, photo.png, or icon.ico) found in repository root")
+
           res_dir = Path("android/app/src/main/res")
 
-          if ico_path.exists():
-              with Image.open(ico_path) as im:
+          with Image.open(src_path) as im:
+              im = ImageOps.exif_transpose(im)
+              if src_path.suffix.lower() == ".ico":
                   sizes = im.info.get("sizes") or []
                   best = None
                   for w, h in sizes:
-                      im.size = (w, h)
-                      im.load()
-                      if best is None or w > best.width:
-                          best = im.copy()
+                      try:
+                          im.size = (w, h)
+                          im.load()
+                          if best is None or w > best.width:
+                              best = im.copy()
+                      except Exception:
+                          continue
                   base = (best or im).convert("RGBA")
+              else:
+                  base = im.convert("RGBA")
 
-              mipmaps = {
-                  "mipmap-mdpi": 48,
-                  "mipmap-hdpi": 72,
-                  "mipmap-xhdpi": 96,
-                  "mipmap-xxhdpi": 144,
-                  "mipmap-xxxhdpi": 192,
-              }
-              for folder, px in mipmaps.items():
-                  out_dir = res_dir / folder
-                  out_dir.mkdir(parents=True, exist_ok=True)
-                  resized = base.resize((px, px), Image.Resampling.LANCZOS)
-                  resized.save(out_dir / "ic_launcher.png")
-                  resized.save(out_dir / "ic_launcher_round.png")
-                  resized.save(out_dir / "ic_launcher_foreground.png")
+          dim = max(base.width, base.height)
+          bg_color = (12, 14, 18, 255)  # #0c0e12
+
+          # Legacy full-bleed square & round launcher icon
+          full = Image.new("RGBA", (dim, dim), bg_color)
+          full.paste(base, ((dim - base.width) // 2, (dim - base.height) // 2), base)
+
+          # Adaptive icon foreground (64% safe-zone scale on transparent canvas)
+          fg_canvas = Image.new("RGBA", (dim, dim), (0, 0, 0, 0))
+          safe_size = int(dim * 0.64)
+          scaled_fg = base.resize((safe_size, safe_size), Image.Resampling.LANCZOS)
+          fg_canvas.paste(scaled_fg, ((dim - safe_size) // 2, (dim - safe_size) // 2), scaled_fg)
+
+          mipmaps = {
+              "mipmap-mdpi": (48, 108),
+              "mipmap-hdpi": (72, 162),
+              "mipmap-xhdpi": (96, 216),
+              "mipmap-xxhdpi": (144, 324),
+              "mipmap-xxxhdpi": (192, 432),
+          }
+          for folder, (legacy_px, adaptive_px) in mipmaps.items():
+              out_dir = res_dir / folder
+              out_dir.mkdir(parents=True, exist_ok=True)
+              full.resize((legacy_px, legacy_px), Image.Resampling.LANCZOS).save(out_dir / "ic_launcher.png")
+              full.resize((legacy_px, legacy_px), Image.Resampling.LANCZOS).save(out_dir / "ic_launcher_round.png")
+              fg_canvas.resize((adaptive_px, adaptive_px), Image.Resampling.LANCZOS).save(out_dir / "ic_launcher_foreground.png")
+          EOF
+
+      - name: Create colors.xml for adaptive background
+        run: |
+          mkdir -p android/app/src/main/res/values
+          cat <<'EOF' > android/app/src/main/res/values/colors.xml
+          <?xml version="1.0" encoding="utf-8"?>
+          <resources>
+              <color name="ic_launcher_background">#0c0e12</color>
+          </resources>
           EOF
 
       - name: Sync Capacitor Android project
