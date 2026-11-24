@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-23T03:35:10",
+  "last_updated": "2026-11-24T18:06:37",
   "count": 105,
   "events": [
-    {
-      "original_lang": "de",
-      "title_original": "WINTERBALL FAST AUSVERKAUFT – WELCOME TO THE GOLDEN TWENTIES!",
-      "title_en": "Winter Ball Almost Sold Out – Welcome to the Golden Twenties!",
-      "description_original": "Der Winterball ist fast ausverkauft. Es gibt noch 'Nur Tanzen Tickets' für Einlass ab 21 Uhr. Tickets sind im Online-Shop von Tix for Gigs erhältlich.",
-      "description_en": "The Winter Ball is almost sold out. 'Dance Only Tickets' are available for entry from 9 PM. Tickets can be purchased in the Tix for Gigs online shop.",
-      "event_language": "Neutral",
-      "category": "Social & Parties",
-      "start_datetime": "2026-11-23T00:00:00",
-      "end_datetime": null,
-      "location": null,
-      "registration_required": true,
-      "registration_url": "https://www.tixforgigs.com/Event/78088?af=54sgq5c242as&saf=pmojsdc",
-      "is_free": false,
-      "sources": [
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "6f35066d2975"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Exposés schreiben",
-      "title_en": "Writing Exposés",
-      "description_original": "Ein Workshop für Promotionsinteressierte und Promovierende",
-      "description_en": "A workshop for prospective and current PhD candidates",
-      "event_language": "DE",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-23T09:00:00",
-      "end_datetime": "2026-11-23T17:00:00",
-      "location": "Emil-Schüller-Str. 12, Raum 201",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/exposes-schreiben-nov-26",
-      "is_free": null,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/exposes-schreiben-nov-26"
-      ],
-      "id": "e36ad9ff38cd"
-    },
     {
       "original_lang": "de",
       "title_original": "24.11.2026 - Netzwerkveranstaltung exist-Women 2026",
@@ -125,12 +81,13 @@
       "location": "Landesbibliothekszentrum, Bahnhofplatz 14 56068 Koblenz",
       "registration_required": false,
       "registration_url": null,
-      "is_free": null,
+      "is_free": true,
       "sources": [
         "Uni Koblenz Calendar"
       ],
       "source_urls": [
-        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/transfer/copy_of_kooperationen/wie-erinnern-wir-uns-stationen-juedisch-christlicher-koexistenz-in-der-deutschen-geschichte-und-rezeptionsgeschichte"
+        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/transfer/copy_of_kooperationen/wie-erinnern-wir-uns-stationen-juedisch-christlicher-koexistenz-in-der-deutschen-geschichte-und-rezeptionsgeschichte",
+        "https://www.uni-koblenz.de/de/fuer-alle/wie-erinnern-wir-uns-stationen-juedisch-christlicher-koexistenz-in-der-deutschen-geschichte-und-rezeptionsgeschichte"
       ],
       "id": "03f2119c55fe"
     },
@@ -239,12 +196,13 @@
       "location": "Bundesarchiv Koblenz; Potsdamer Str. 1, 56075 Karthause",
       "registration_required": false,
       "registration_url": null,
-      "is_free": null,
+      "is_free": true,
       "sources": [
         "Uni Koblenz Calendar"
       ],
       "source_urls": [
-        "https://www.uni-koblenz.de/de/gleichstellung/gewalt-sichtbar-machen-ein-filmisch-literarischer-abend-mit-alina-cyranek-fassaden-und-daniela-droescher-luegen-ueber-meine-mutter"
+        "https://www.uni-koblenz.de/de/gleichstellung/gewalt-sichtbar-machen-ein-filmisch-literarischer-abend-mit-alina-cyranek-fassaden-und-daniela-droescher-luegen-ueber-meine-mutter",
+        "https://www.uni-koblenz.de/de/fuer-alle/gewalt-sichtbar-machen-ein-filmisch-literarischer-abend"
       ],
       "id": "d2ff99455b0f"
     },
@@ -427,6 +385,28 @@
         "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/sprachdiagnostik"
       ],
       "id": "21813575b291"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Zukünfte An*fangen - Stadtgesellschaft solidarisch gestalten",
+      "title_en": "Future Beginnings – Shaping a Solidary Urban Society",
+      "description_original": "19.11.2026 - 04.02.2027",
+      "description_en": "Series of events from 19 November 2026 to 4 February 2027 focusing on community solidarity.",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-11-26T18:15:00",
+      "end_datetime": "2027-02-04T19:45:00",
+      "location": null,
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/fuer-alle/zukuenfte-an-fangen-stadtgesellschaft-solidarisch-gestalten"
+      ],
+      "id": "5c66a0d6b618"
     },
     {
       "original_lang": "de",
@@ -1232,6 +1212,28 @@
         "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
       ],
       "id": "ebb7c3bf0e88"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Equality Bites - Gleichstellung zum Mittagessen",
+      "title_en": "Equality Bites – Equality Over Lunch",
+      "description_original": "12.11.2026 - 11.02.2027",
+      "description_en": "Online lunch series from 10 December 2026 to 11 February 2027 discussing equality topics.",
+      "event_language": "DE",
+      "category": "Social & Parties",
+      "start_datetime": "2026-12-10T12:00:00",
+      "end_datetime": "2027-02-11T13:00:00",
+      "location": "online",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": true,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/fuer-alle/equality-bites-gleichstellung-zum-mittagessen"
+      ],
+      "id": "9a0912580070"
     },
     {
       "original_lang": "mixed",
