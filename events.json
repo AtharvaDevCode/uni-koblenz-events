@@ -1,96 +1,7 @@
 {
-  "last_updated": "2026-11-24T18:06:37",
-  "count": 105,
+  "last_updated": "2026-11-25T17:30:17",
+  "count": 102,
   "events": [
-    {
-      "original_lang": "de",
-      "title_original": "24.11.2026 - Netzwerkveranstaltung exist-Women 2026",
-      "title_en": "24.11.2026 – EXIST‑Women Networking Event 2026",
-      "description_original": "Netzwerkveranstaltung des EXIST‑Women Förderprogramms",
-      "description_en": "Networking event of the EXIST‑Women funding program",
-      "event_language": "DE",
-      "category": "Career & Jobs",
-      "start_datetime": "2026-11-24T15:30:00",
-      "end_datetime": "2026-11-24T23:59:59",
-      "location": "ED School",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de/de/gruendungsbuero/foerderung/exist-women-foerderprogramm/netzwerkveranstaltung-exit-women",
-      "is_free": null,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/gruendungsbuero/foerderung/exist-women-foerderprogramm/netzwerkveranstaltung-exit-women"
-      ],
-      "id": "6b122f0b3605"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Mahjong spielen mit HSG-Mahjong",
-      "title_en": "Mahjong Playing with HSG-Mahjong",
-      "description_original": "Lerne und Spiele Mahjong am 24. November in Raum H010 um 16:00 mit der HSG Mahjong. Es wird Tee und Deko geben.",
-      "description_en": "Learn and play Mahjong on November 24 in room H010 at 16:00 with HSG Mahjong. Tea and decorations will be provided.",
-      "event_language": "DE",
-      "category": "Sports & Games",
-      "start_datetime": "2026-11-24T16:00:00",
-      "end_datetime": null,
-      "location": "H010, University of Koblenz",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "90dd61584376"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Neutralitätspflicht und Extremismus: Was dürfen Pädagog*innen noch sagen?",
-      "title_en": "Neutrality Duty and Extremism: What May Educators Say?",
-      "description_original": "Die Veranstaltung möchte in diesem Kontext Wissen vermitteln, den Teilnehmenden durch ausgewählte Fallbeispiele Sicherheit im Umgang mit herausfordernden Situationen geben und zum Austausch untereinander anregen.",
-      "description_en": "The event aims to convey knowledge in this context, give participants confidence in dealing with challenging situations through selected case studies, and encourage exchange among each other.",
-      "event_language": "DE",
-      "category": "Politics & Admin",
-      "start_datetime": "2026-11-24T17:00:00",
-      "end_datetime": "2026-11-24T20:00:00",
-      "location": "D 238, University of Koblenz",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "47e548a4d29c"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Wie erinnern wir (uns)? – Stationen jüdisch-christlicher Koexistenz in der deutschen Geschichte und Rezeptionsgeschichte",
-      "title_en": "How Do We Remember? – Stations of Jewish‑Christian Coexistence in German History and Reception History",
-      "description_original": "Vortrag über jüdisch‑christliche Koexistenz in der deutschen Geschichte",
-      "description_en": "Lecture on Jewish‑Christian coexistence in German history",
-      "event_language": "DE",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-24T18:00:00",
-      "end_datetime": "2026-11-24T20:00:00",
-      "location": "Landesbibliothekszentrum, Bahnhofplatz 14 56068 Koblenz",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/transfer/copy_of_kooperationen/wie-erinnern-wir-uns-stationen-juedisch-christlicher-koexistenz-in-der-deutschen-geschichte-und-rezeptionsgeschichte",
-        "https://www.uni-koblenz.de/de/fuer-alle/wie-erinnern-wir-uns-stationen-juedisch-christlicher-koexistenz-in-der-deutschen-geschichte-und-rezeptionsgeschichte"
-      ],
-      "id": "03f2119c55fe"
-    },
     {
       "original_lang": "en",
       "title_original": "International Week",
@@ -2340,6 +2251,28 @@
         "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/projektmanagement-an-hochschulen-apr-27"
       ],
       "id": "f41b980e5fc3"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "World CLIL Conference 2027: Embracing the ‘C’ in CLIL",
+      "title_en": "World CLIL Conference 2027: Embracing the ‘C’ in CLIL",
+      "description_original": "",
+      "description_en": "",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-05-21T00:00:00",
+      "end_datetime": "2027-05-22T23:59:59",
+      "location": "Universität Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/world-clil-conference-2027",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/world-clil-conference-2027"
+      ],
+      "id": "920d1d4f5b33"
     }
   ]
 }
