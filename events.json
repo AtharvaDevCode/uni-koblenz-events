@@ -1,214 +1,7 @@
 {
-  "last_updated": "2026-11-25T17:30:17",
-  "count": 102,
+  "last_updated": "2026-11-26T17:13:20",
+  "count": 96,
   "events": [
-    {
-      "original_lang": "en",
-      "title_original": "International Week",
-      "title_en": "International Week",
-      "description_original": "In diesem Jahr findet an der Universität Koblenz vom 25. November bis 2. Dezember 2026 die alljährliche International Week statt. Alle Studierenden und Mitarbeitenden der Universität sind eingeladen, an den verschiedenen Veranstaltungen teilzunehmen.",
-      "description_en": "This year the annual International Week takes place at the University of Koblenz from 25 November to 2 December 2026. All students and staff are invited to join the various events.",
-      "event_language": "EN",
-      "category": "International",
-      "start_datetime": "2026-11-25T00:00:00",
-      "end_datetime": "2026-12-02T23:59:59",
-      "location": "Universität Koblenz",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "Uni Koblenz Calendar",
-        "International Week"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week/international-week-1"
-      ],
-      "id": "cee29e89a08c"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "26. AStA-Sitzung",
-      "title_en": "26th AStA Meeting",
-      "description_original": "",
-      "description_en": "Regular meeting of the Central Student Council (AStA).",
-      "event_language": "DE",
-      "category": "Politics & Admin",
-      "start_datetime": "2026-11-25T12:00:00",
-      "end_datetime": "2026-11-25T14:00:00",
-      "location": "B 013",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": null,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/ssv/asta/aktuelles/26-asta-sitzung"
-      ],
-      "id": "e3a6a170afc7"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Vollversammlung der Studierenden",
-      "title_en": "General Assembly of Students",
-      "description_original": "Liebe Studierende, wir laden euch hiermit zur Vollversammlung aller Studierenden im Wintersemester 2026/27 ein. Datum: Mittwoch, 25. November, Uhrzeit: 12:00 Uhr, Raum: D 028. Die Tagesordnung lautet: 1. Begrüßung 2. Wahlen zum 4. Studierendenparlament 2.1. Allgemeine Informationen zur Wahl",
-      "description_en": "Dear students, we hereby invite you to the general assembly of all students for the winter semester 2026/27. Date: Wednesday, 25 November, time: 12:00, room: D 028. The agenda: 1. Welcome 2. Elections for the 4th Student Parliament 2.1. General information about the election",
-      "event_language": "DE",
-      "category": "Politics & Admin",
-      "start_datetime": "2026-11-25T12:00:00",
-      "end_datetime": "2026-11-25T14:00:00",
-      "location": "D028",
-      "registration_required": true,
-      "registration_url": "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11",
-      "is_free": true,
-      "sources": [
-        "Uni Koblenz Calendar",
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/ssv/wahlrat/vollversammlung-der-studierenden",
-        "https://www.uni-koblenz.de/de/ssv/fachschaften/bildungswissenschaften/vollversammlung-fachschaft-bildungswissenschaften-grundschulbildung",
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "fcc9e410bae1"
-    },
-    {
-      "original_lang": "en",
-      "title_original": "Self-Regulation and Reflective Practice in Teacher Education",
-      "title_en": "Self-Regulation and Reflective Practice in Teacher Education",
-      "description_original": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
-      "description_en": "A bi‑weekly 2‑hour course in English that helps student teachers manage stress, feedback, emotions and career doubts through guided exercises and peer reflection.",
-      "event_language": "EN",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-25T12:00:00",
-      "end_datetime": "2026-11-25T14:00:00",
-      "location": "Room F-312, University of Koblenz",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation",
-      "is_free": true,
-      "sources": [
-        "Self-Regulation and Reflective  Practice in Teacher Education"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/self-regulation"
-      ],
-      "id": "f35356980168"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Gewalt sichtbar machen: ein filmisch-literarischer Abend mit Alina Cyranek („Fassaden“) und Daniela Dröscher („Lügen über meine Mutter“)",
-      "title_en": "Making Violence Visible: A Film and Literature Evening with Alina Cyranek and Daniela Dröscher",
-      "description_original": "Zum Orange Day veranstalten die zentralen Gleichstellungsbeauftragten der Universität Koblenz und der Hochschule Koblenz einen filmisch-literarischen Abend über Gewalt an Frauen und deren Folgen. ",
-      "description_en": "A film and literature evening organized for Orange Day focusing on violence against women and its consequences, featuring works by Alina Cyranek and Daniela Dröscher.",
-      "event_language": "DE",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-25T16:00:00",
-      "end_datetime": "2026-11-25T21:00:00",
-      "location": "Bundesarchiv Koblenz; Potsdamer Str. 1, 56075 Karthause",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/gleichstellung/gewalt-sichtbar-machen-ein-filmisch-literarischer-abend-mit-alina-cyranek-fassaden-und-daniela-droescher-luegen-ueber-meine-mutter",
-        "https://www.uni-koblenz.de/de/fuer-alle/gewalt-sichtbar-machen-ein-filmisch-literarischer-abend"
-      ],
-      "id": "d2ff99455b0f"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Absolvierendenfeier",
-      "title_en": "Graduation Ceremony",
-      "description_original": "Diesjährige Absolvierendenfeier des Instituts für Katholische Theologie. Teilnahme nur nach vorheriger Anmeldung möglich.",
-      "description_en": "Annual graduation ceremony of the Institute of Catholic Theology. Participation requires prior registration.",
-      "event_language": "DE",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-25T18:00:00",
-      "end_datetime": "2026-11-25T23:59:59",
-      "location": "E414",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de",
-      "is_free": null,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/katholische-theologie/aktuelles/termine/absolvierendenfeier"
-      ],
-      "id": "60211ef34a59"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Cultural Stage",
-      "title_en": "Cultural Stage",
-      "description_original": "Die Cultural Stage findet am 25. November ab 18:00 Uhr statt und bildet den Auftakt zur International Week. Anmeldung über den Link auf der linken Seite ist nötig.",
-      "description_en": "The Cultural Stage takes place on 25 November at 18:00 as the kickoff of International Week. Registration via the link on the left side is required.",
-      "event_language": "DE",
-      "category": "International",
-      "start_datetime": "2026-11-25T18:00:00",
-      "end_datetime": null,
-      "location": "Universität Koblenz",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
-      "is_free": true,
-      "sources": [
-        "International Week",
-        "International Week Program"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week/international-week-1",
-        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week"
-      ],
-      "id": "e08388f5cfb9"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "🎳 Bowling-Ausflug",
-      "title_en": "🎳 Bowling Trip",
-      "description_original": "Du hast Lust auf einen geselligen Abend und ein bisschen sportliche Abwechslung vom Uni-Alltag? Dann komm mit dem AStA bowlen! ... vollkommen Kostenlos für dich!",
-      "description_en": "Do you feel like a sociable evening and a bit of sporting variety from university life? Then come bowling with the AStA! ... completely free for you!",
-      "event_language": "Neutral",
-      "category": "Social & Parties",
-      "start_datetime": "2026-11-25T18:30:00",
-      "end_datetime": "2026-11-25T23:59:59",
-      "location": "Bowling Room Koblenz",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de/de/ssv/asta/referate/sport-gesundheit",
-      "is_free": true,
-      "sources": [
-        "Uni Koblenz Calendar",
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/ssv/asta/aktuelles/termine/bowling-ausflug",
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "34af4d139e3c"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Queerer Stammtisch",
-      "title_en": "Queer Stammtisch",
-      "description_original": "Am 2026-11-25 soll im Florinsmarkt ab 19 Uhr wieder der Queere Stammtisch stattfinden. Wir haben wie immer auch Geld für einen Getränkedeckel und Essen beantragt.",
-      "description_en": "The Queer Stammtisch will take place again at Florinsmarkt from 19:00 on 2026-11-25. We have also applied for funds for a drink cover and food as usual.",
-      "event_language": "DE",
-      "category": "Social & Parties",
-      "start_datetime": "2026-11-25T19:00:00",
-      "end_datetime": null,
-      "location": "Florinsmarkt",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "461230d4647c"
-    },
     {
       "original_lang": "de",
       "title_original": "WinterUni-.Crew-Meeting am 26.11.",
@@ -1060,6 +853,50 @@
     },
     {
       "original_lang": "de",
+      "title_original": "25. StuPa-Sitzung",
+      "title_en": "25th Student Parliament Meeting",
+      "description_original": "Student parliament meeting to discuss current issues and decisions.",
+      "description_en": "Student parliament meeting to discuss current issues and decisions.",
+      "event_language": "DE",
+      "category": "Politics & Admin",
+      "start_datetime": "2026-12-08T14:00:00",
+      "end_datetime": "2026-12-08T16:00:00",
+      "location": "D 238",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/ssv/stupa/sitzungen/25-stupa-sitzung"
+      ],
+      "id": "99526fcc00eb"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Ohne sie gäb’s keine Energiewende: Role Models und ihr Innovationspotenzial",
+      "title_en": "Without Them There Would Be No Energy Transition: Role Models and Their Innovation Potential",
+      "description_original": "A talk on role models and their potential for innovation in the energy transition.",
+      "description_en": "A talk on role models and their potential for innovation in the energy transition.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-08T14:00:00",
+      "end_datetime": "2026-12-08T15:00:00",
+      "location": "online",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/fuer-alle/ohne-sie-gaebs-keine-energiewende-role-models-und-ihr-innovationspotenzial"
+      ],
+      "id": "4949cd87b075"
+    },
+    {
+      "original_lang": "de",
       "title_original": "Coffee Lecture: Open Access und Barrierefreiheit: wissenschaftlich publizieren für alle",
       "title_en": "Coffee Lecture: Open Access and Accessibility: Publishing Science for All",
       "description_original": "Open Access macht Forschung frei verfügbar – aber ist sie auch für alle nutzbar? Was bedeutet Barrierefreiheit beim wissenschaftlichen Publizieren konkret?",
@@ -1630,7 +1467,8 @@
         "Uni Koblenz Calendar"
       ],
       "source_urls": [
-        "https://www.uni-koblenz.de/de/ikarus/karriere/termine/connectcreate190127"
+        "https://www.uni-koblenz.de/de/ikarus/karriere/termine/connectcreate190127",
+        "https://www.uni-koblenz.de/de/ikarus/careerservice/termine/connectcreate190127"
       ],
       "id": "2488efad8a66"
     },
@@ -2273,6 +2111,28 @@
         "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/world-clil-conference-2027"
       ],
       "id": "920d1d4f5b33"
+    },
+    {
+      "original_lang": "de",
+      "title_original": "Wie Medien in Deutschland, Österreich und Schweiz über unbezahlte Sorgearbeit berichten",
+      "title_en": "How Media in Germany, Austria, and Switzerland Report Unpaid Care Work",
+      "description_original": "Ein Vortrag aus der Veranstaltungsreihe von CHEtalk feat. Familien in der Hochschule e.V.",
+      "description_en": "A lecture from the CHEtalk series featuring Families in Higher Education e.V., discussing media coverage of unpaid care work.",
+      "event_language": "DE",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-06-15T12:00:00",
+      "end_datetime": "2027-06-15T13:00:00",
+      "location": "Online",
+      "registration_required": false,
+      "registration_url": null,
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/gleichstellung/medien-unbezahlte-sorgearbeit"
+      ],
+      "id": "522a83275a46"
     }
   ]
 }
