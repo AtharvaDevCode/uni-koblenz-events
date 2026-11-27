@@ -1,140 +1,7 @@
 {
-  "last_updated": "2026-11-26T17:13:20",
-  "count": 96,
+  "last_updated": "2026-11-27T16:55:28",
+  "count": 93,
   "events": [
-    {
-      "original_lang": "de",
-      "title_original": "WinterUni-.Crew-Meeting am 26.11.",
-      "title_en": "WinterUni Crew Meeting on 26 Nov",
-      "description_original": "Treffen des WinterUni‑Crew, um kommende Veranstaltungen zu planen.",
-      "description_en": "Meeting of the WinterUni crew to plan upcoming events.",
-      "event_language": "DE",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-26T00:00:00",
-      "end_datetime": null,
-      "location": null,
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": null,
-      "sources": [
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "750d36ec5e13"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Sprechstunde Berufs- und Studienberatung – 26. November 2026",
-      "title_en": "Career and Study Counseling Drop-in – 26 November 2026",
-      "description_original": "Beratungstermin im N‑Gebäude (Sozialbüro) von 10:00 bis 14:00 Uhr für Fragen zur beruflichen Orientierung und Studienplanung.",
-      "description_en": "Counseling session in the N‑building (social office) from 10:00 to 14:00 for questions about career orientation and study planning.",
-      "event_language": "DE",
-      "category": "Career & Jobs",
-      "start_datetime": "2026-11-26T10:00:00",
-      "end_datetime": "2026-11-26T14:00:00",
-      "location": "N‑Gebäude (Sozialbüro)",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "AStA Newsletter"
-      ],
-      "source_urls": [
-        "https://asta-newsletter.uni-koblenz.de/archiv/asta-newsletter-2026-14-11"
-      ],
-      "id": "524bd9a3a6d3"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Faire, inklusive und sorgende Stadt - Neue Perspektiven der Fürsorge in der gendergerechten Stadtentwicklung",
-      "title_en": "Fair, inclusive and caring city – New perspectives on care in gender-sensitive urban development",
-      "description_original": "Wie können Städte so gestaltet werden, dass sie den Bedürfnissen aller Menschen gerecht werden? |  Ein Vortrag angeboten von der Kommission „Familienpolitik in der Frauen- und Gleichstellungsarbeit“  der Bundeskonferenz der Frauen- und Gleichstellungsbeauftragten an Hochschulen e.V. (bukof).",
-      "description_en": "How can cities be designed to meet the needs of all people? A lecture offered by the Commission “Family Policy in Women’s and Equality Work” of the Federal Conference of Women’s and Equality Officers at Universities (bukof).",
-      "event_language": "DE",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-26T12:30:00",
-      "end_datetime": "2026-11-26T14:00:00",
-      "location": "Online",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de",
-      "is_free": null,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/gleichstellung/gendergerechte-stadtentwicklung"
-      ],
-      "id": "c2774cd9723f"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Sprachdiagnostik in der Praxis – Förderbedarfe erkennen und adressieren",
-      "title_en": "Speech diagnostics in practice – Recognizing and addressing support needs",
-      "description_original": "",
-      "description_en": "",
-      "event_language": "DE",
-      "category": "Academic & Workshops",
-      "start_datetime": "2026-11-26T16:00:00",
-      "end_datetime": "2026-11-26T19:00:00",
-      "location": "Raum ESS 201 (Emil-Schüller-Straße 12 | 56068 Koblenz)",
-      "registration_required": true,
-      "registration_url": "https://www.uni-koblenz.de",
-      "is_free": null,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/zfl/veranstaltungen/fortbildungen-und-workshops/wintersemester-2026-27/sprachdiagnostik"
-      ],
-      "id": "21813575b291"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Zukünfte An*fangen - Stadtgesellschaft solidarisch gestalten",
-      "title_en": "Future Beginnings – Shaping a Solidary Urban Society",
-      "description_original": "19.11.2026 - 04.02.2027",
-      "description_en": "Series of events from 19 November 2026 to 4 February 2027 focusing on community solidarity.",
-      "event_language": "DE",
-      "category": "Politics & Admin",
-      "start_datetime": "2026-11-26T18:15:00",
-      "end_datetime": "2027-02-04T19:45:00",
-      "location": null,
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "Uni Koblenz Calendar"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/fuer-alle/zukuenfte-an-fangen-stadtgesellschaft-solidarisch-gestalten"
-      ],
-      "id": "5c66a0d6b618"
-    },
-    {
-      "original_lang": "de",
-      "title_original": "Sprachencafé",
-      "title_en": "Language Café",
-      "description_original": "Im Sprachencafé können Sie Ihre Sprachkenntnisse im Gespräch mit Muttersprachler*innen und anderen Lernenden vertiefen. Uniangehörige und Gäste sind willkommen.",
-      "description_en": "At the Language Café you can improve your language skills by chatting with native speakers and other learners. University members and guests are welcome.",
-      "event_language": "Neutral",
-      "category": "Social & Parties",
-      "start_datetime": "2026-11-26T18:30:00",
-      "end_datetime": "2026-11-26T20:00:00",
-      "location": "neue Mensa",
-      "registration_required": false,
-      "registration_url": null,
-      "is_free": true,
-      "sources": [
-        "International Week Program"
-      ],
-      "source_urls": [
-        "https://www.uni-koblenz.de/de/international/veranstaltungen-und-projekte/international-week",
-        "https://olat.vcrp.de/auth/RepositoryEntry/3888809244/CourseNode/113556843067460"
-      ],
-      "id": "c9a712901fc5"
-    },
     {
       "original_lang": "de",
       "title_original": "Studentische Stunde",
@@ -982,6 +849,28 @@
         "https://www.uni-koblenz.de/de/fuer-alle/equality-bites-gleichstellung-zum-mittagessen"
       ],
       "id": "9a0912580070"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "KTTx-Forum I: Lessons Learned from the Scholarly Literature on Technology Transfer and Academic Entrepreneurship (TT-AE) and New Directions",
+      "title_en": "KTTx-Forum I: Lessons Learned from the Scholarly Literature on Technology Transfer and Academic Entrepreneurship (TT-AE) and New Directions",
+      "description_original": "What have we learned from more than two decades of research on technology transfer and academic entrepreneurship, and where should the field go next?",
+      "description_en": "What have we learned from more than two decades of research on technology transfer and academic entrepreneurship, and where should the field go next?",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2026-12-10T13:00:00",
+      "end_datetime": "2026-12-10T14:30:00",
+      "location": "Online - Zoom",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/zifet/projekte/knowledge-and-technology-transfer-exchange-kttx-forum/kttx-forum-vol1"
+      ],
+      "id": "19612524f28d"
     },
     {
       "original_lang": "mixed",
@@ -2089,6 +1978,51 @@
         "https://www.uni-koblenz.de/de/ifgpz/das-ifgpz/veranstaltungen/projektmanagement-an-hochschulen-apr-27"
       ],
       "id": "f41b980e5fc3"
+    },
+    {
+      "original_lang": "en",
+      "title_original": "GAPS Conference 2027",
+      "title_en": "GAPS Conference 2027",
+      "description_original": "Annual Conference of the Association of Anglophone Postcolonial Studies (GAPS) 2027",
+      "description_en": "Annual Conference of the Association of Anglophone Postcolonial Studies (GAPS) 2027",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-05-06T00:00:00",
+      "end_datetime": "2027-05-08T23:59:59",
+      "location": "Universität Koblenz",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de",
+      "is_free": null,
+      "sources": [
+        "Uni Koblenz Calendar",
+        "GAPS Conference 2027"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/anglistik/anglistik-amerikanistik/aktuelles/gaps-conference-2027"
+      ],
+      "id": "2bdbefaa7c7d"
+    },
+    {
+      "original_lang": "mixed",
+      "title_original": "Annual Conference of the Association of Anglophone Postcolonial Studies (GAPS) 2027",
+      "title_en": "Annual Conference of the Association of Anglophone Postcolonial Studies (GAPS) 2027",
+      "description_original": "The GAPS 2027 conference “Postcolonial Bodies” will be held at the University of Koblenz, Germany, from 6 to 8 May 2027. It features keynotes by Esme Cleall and Ayo A. Coly, creative‑writer sessions and invited speakers.",
+      "description_en": "The GAPS 2027 conference “Postcolonial Bodies” will be held at the University of Koblenz, Germany, from 6 to 8 May 2027. It features keynotes by Esme Cleall and Ayo A. Coly, creative‑writer sessions and invited speakers.",
+      "event_language": "EN",
+      "category": "Academic & Workshops",
+      "start_datetime": "2027-05-06T00:00:00",
+      "end_datetime": null,
+      "location": "E Building, University of Koblenz, Germany",
+      "registration_required": true,
+      "registration_url": "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/anglistik/anglistik-amerikanistik/forschung/gaps-conference-2027",
+      "is_free": null,
+      "sources": [
+        "GAPS Conference 2027 Program"
+      ],
+      "source_urls": [
+        "https://www.uni-koblenz.de/de/philologie-kulturwissenschaften/anglistik/anglistik-amerikanistik/forschung/gaps-conference-2027"
+      ],
+      "id": "df5aad13c444"
     },
     {
       "original_lang": "en",
